@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Fan Zhou's Homapage"
-description              : "M.S. Student @SJTU"
-repository               : "koalazf99/koalazf99.github.io"
+title                    : "Yinghao Cai"
+description              : "Undergraduate Student in SEU"
+repository               : "https://github.com/Fuyao233/yinghaocai"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,23 +21,21 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:   
-  name             : "Fan Zhou"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  name             : "Yinghao Cai"
+  avatar           : "assets/images/1.png"
+  bio              : "大鹏一日同风起，扶摇直上九万里。——李白《上李邕》"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=qi8UzmkAAAAJ&hl=en"
-  email            : "zhoufan98@sjtu.edu.cn"
+  email            : "yinghao@seu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :  "https://www.semanticscholar.org/author/Fan-Zhou/2153433679"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "koalazf99"
+  github           : "https://github.com/Fuyao233"
   google_plus      :
   keybase          :
   instagram        :
