@@ -10,25 +10,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Biography
+# 🐨 Me
 
-Hi! I am a 3-year undergraduate student majoring in Artificial Intelligence in [Southeast University](https://www.seu.edu.cn/). I will receive my bachelor degree in 2024. I am supervised by [Prof. Beilun Wang](https://cse.seu.edu.cn/2019/0105/c23024a257533/pagem.htm) in [Lab Wang](https://xgbxscwx.seu.edu.cn/wang-labsite/). 	
+I am currently a second-year Master student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), under the supervise of [Prof. Fan Cheng](https://www.cs.sjtu.edu.cn/~chengfan/index.html), major in computer science. Before that, I received my B.S. degree in IEEE honor class at SJTU, major in computer science. I used to be a research intern at [ SJTU interpretable ML lab](https://sjtu-xai-lab.github.io/), guided by [Prof. Quanshi Zhang](http://qszhang.com) during my undergraduate study.
 
-I am among the top 3% ranked students. During my undergraduate studies, I explored various research directions in the field of AI and undertook numerous projects under the guidance of my professors. The details of some of these projects are as follows. Currently, I am deeply interested in the following areas: machine learning, particularly graph-based machine learning; knowledge graphs; natural language processing; and computer vision.
+In 2021.10~2022, I worked as a research intern in Microsoft Research Asia (MSRA) [DKI group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) guided by [Haoyu Dong](https://www.microsoft.com/en-us/research/people/hadong/). I worked on some interesting research topics related to semi-structured tabular data, such as table pre-training, table question answering. 
 
-Now, I am actively seeking professor who aligns with my areas of interest and would appreciate the opportunity to receive his/her guidance as I pursue further studies. If you find my profile intriguing, please feel free to reach out to me via email. You can find my email address in the left sidebar.
+I also work with [Qian Liu](https://siviltaram.github.io/) at [Sea AI Lab](https://sail.sea.com/).
 
-# Educations
-
-- *2020.06 - 2024.06 (expected)*, B.S., SEU, Artificial Intelligence
-
-
-
-# Awards
-
-
-
-# Projects
+# 🔥 News
 - *2023.04*: &nbsp;🔥🔥 New preprint applying [**symbolic tasks** in **instruction tuning**](https://arxiv.org/abs/2304.07995)!
 - *2022.10*: &nbsp;🎉🎉 Our **TaCube** paper(Table QA) got accepted by EMNLP'22.
 
@@ -45,7 +35,7 @@ Qian Liu\*, **Fan Zhou\***, Zhengbao Jiang, Longxu Dou, Min Lin, (*=equal contri
 **Fan Zhou\***, Haoyu Dong\*, Qian Liu, Zhoujun Cheng, Shi Han, Dongmei Zhang, (*=equal contribution) \\
 **NeurIPS 2022, 2nd MATH-AI Workshop** |  [📄 <font color="LightSeaGreen">PDF</font>](https://arxiv.org/abs/2210.05075) 
 </div>
-
+ 
  <div class='paper-box-text' markdown="1">
 <font color="FireBrick">TaCube: Pre-computing Data Cubes for Answering Numerical-Reasoning Questions over Tabular Data</font>
 **Fan Zhou**, Mengkang Hu, Haoyu Dong, Zhoujun Cheng, Fan Cheng, Shi Han, Dongmei Zhang \\
@@ -76,4 +66,6 @@ Haotian Ma, Hao Zhang, **Fan Zhou**, Quanshi Zhang \\
 - SJTU Academic Scholarship, 2017~2020
 - Shanghai City Scholarship(≈top 5%), 2018
 
-- 
+# 📖 Educations
+- *2021.09 - 2024.03 (expected)*, M.S.@SJTU, Computer Science & Engineering
+- *2017.09 - 2021.06*, B.S.@SJTU, IEEE honor class, Computer Science.
