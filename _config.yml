@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yinghao Cai"
 description              : "Undergraduate Student @SEU"
-repository               : "https://github.com/Fuyao233/yinghaocai"
+repository               : "Fuyao233/yinghaocai"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -34,7 +34,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Fuyao233"
+  github           : "Fuyao233"
   google_plus      :
   keybase          :
   instagram        :
