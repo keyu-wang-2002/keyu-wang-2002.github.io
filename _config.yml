@@ -22,8 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:   
   name             : "Yinghao Cai"
-  avatar           : "assets/images/1.png"
-  bio              : "大鹏一日同风起，扶摇直上九万里。——李白《上李邕》"
+  avatar           : "images/1.png"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 

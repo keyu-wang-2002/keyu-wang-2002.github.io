@@ -10,6 +10,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+
+> ​																										大鹏一日同风起，扶摇直上九万里。
+>
+> ​																																															                      ——李白《上李邕》
+
+
+
 # Biography
 
 Hi! I am a 3-year undergraduate student majoring in Artificial Intelligence in [Southeast University](https://www.seu.edu.cn/). I will receive my bachelor degree in 2024. I am supervised by [Prof. Beilun Wang](https://cse.seu.edu.cn/2019/0105/c23024a257533/pagem.htm) in [Lab Wang](https://xgbxscwx.seu.edu.cn/wang-labsite/). 	
