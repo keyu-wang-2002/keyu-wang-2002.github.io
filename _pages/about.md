@@ -32,20 +32,23 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
 
 
 
-# Awards
+# Honors and Awards
+
+- *2020-2021*, National Scholarship
+- *2020-2021*, Merit Student at Southeast University 
 
 
-
-# Projects
-- *2023.04*: &nbsp;🔥🔥 New preprint applying [**symbolic tasks** in **instruction tuning**](https://arxiv.org/abs/2304.07995)!
-- *2022.10*: &nbsp;🎉🎉 Our **TaCube** paper(Table QA) got accepted by EMNLP'22.
 
 # Publications 
 
 
 
+# Projects
 
 
-# Honors and Awards
 
-- ​			
+
+
+
+
+
