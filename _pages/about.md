@@ -48,8 +48,8 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
 
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-height: 50%;">
-    <img src="./imgs/knowledge_neurons.png" alt="图片">
+  <div style="flex: 1; max-height: 50%; max-width: 50%">
+    <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/knowledge_neurons.png" alt="图片" style="max-width: 50%;">
   </div>
   <div style="flex: 1; padding: 20px;">
     <font color="FireBrick">From Zero to Hero: Examining the Power of Symbolic Tasks in Instruction Tuning</font>
@@ -58,7 +58,7 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
   </div>
 </div>
 
-
+​	
 
 
 
