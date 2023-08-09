@@ -43,7 +43,27 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
 
 
 
-[report](../docs/58120127蔡英豪_report.pdf)
+## TODO: 左图(local)右文；PDF链接
+
+
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; max-height: 50%;">
+    <img src="./imgs/knowledge_neurons.png" alt="图片">
+  </div>
+  <div style="flex: 1; padding: 20px;">
+    <font color="FireBrick">From Zero to Hero: Examining the Power of Symbolic Tasks in Instruction Tuning</font>
+    Qian Liu*, **Fan Zhou***, Zhengbao Jiang, Longxu Dou, Min Lin, (*=equal contribution) \
+    **(2023, Preprint)** |  [PDF](https://arxiv.org/abs/2304.07995) | [🛠 Code](https://github.com/sail-sg/symbolic-instruction-tuning/) | [🤗 hf datasets](https://huggingface.co/datasets/sail/symbolic-instruction-tuning) & [models](https://huggingface.co/models?search=sail/tapex-zero) | [✊ Twitter](https://twitter.com/sivil_taram/status/1648294728553877505)
+  </div>
+</div>
+
+
+
+
+
+
+
 
 
 
