@@ -41,9 +41,11 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
 
 # Publications 
 
+待发
 
 
-## TODO: 左图(local)右文；PDF链接
+
+## TODO: PDF链接
 
 
 
@@ -54,11 +56,11 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
   <div style="flex: 1; padding: 20px;">
     <font color="FireBrick">From Zero to Hero: Examining the Power of Symbolic Tasks in Instruction Tuning</font>
     Qian Liu*, **Fan Zhou***, Zhengbao Jiang, Longxu Dou, Min Lin, (*=equal contribution) \
-    **(2023, Preprint)** |  [PDF](https://arxiv.org/abs/2304.07995) | [🛠 Code](https://github.com/sail-sg/symbolic-instruction-tuning/) | [🤗 hf datasets](https://huggingface.co/datasets/sail/symbolic-instruction-tuning) & [models](https://huggingface.co/models?search=sail/tapex-zero) | [✊ Twitter](https://twitter.com/sivil_taram/status/1648294728553877505)
+    **(2023, Preprint)** |  [PDF]() | [🛠 Code]() | [🤗 hf datasets](https://huggingface.co/datasets/sail/symbolic-instruction-tuning) & [models]() | [✊ Twitter]()
   </div>
 </div>
 
-​	
+​	[PDF](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.pdf)
 
 
 
