@@ -20,17 +20,27 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
-author:   
+# author:   
+#   name             : "Yinghao Cai"
+#   avatar           : "images/1.jpg"
+#   location         : "Nanjing, China"
+#   email            : "yinghao@seu.edu.cn"
+#   github           : "Fuyao233"
+#   links:
+#     - label: "CV"
+#       icon: "fas fa-fw fa-file-pdf"
+#       url: "docs/CV.pdf"
+author:
   name             : "Yinghao Cai"
-  avatar           : "images/1.jpg"
+  avatar           : "images/1.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : " " # descrption
   location         : "Nanjing, China"
-  email            : "yinghao@seu.edu.cn"
+  email            :
   github           : "Fuyao233"
   links:
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "docs/CV.pdf"
-
 
 # Reading Files
 include:

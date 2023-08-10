@@ -45,22 +45,32 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
 
 
 
-## TODO: PDF链接
+## TODO: PDF链接(侧栏和projects)
 
 
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-height: 50%; max-width: 50%">
+  <div style="flex: 1; max-height: 28%; max-width: 59%; position: relative; left: 12%;">
     <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/knowledge_neurons.png" alt="图片" style="max-width: 50%;">
   </div>
-  <div style="flex: 1; padding: 20px;">
-    <font color="FireBrick">From Zero to Hero: Examining the Power of Symbolic Tasks in Instruction Tuning</font>
-    Qian Liu*, **Fan Zhou***, Zhengbao Jiang, Longxu Dou, Min Lin, (*=equal contribution) \
-    **(2023, Preprint)** |  [PDF]() | [🛠 Code]() | [🤗 hf datasets](https://huggingface.co/datasets/sail/symbolic-instruction-tuning) & [models]() | [✊ Twitter]()
+  <div style="flex: 1; padding: 0px;">
+    <font color="FireBrick">Knowledge Engineering Practice: Diabetic Knowledge Map Construction and Prescription Prediction</font> \\
+    *Leader* \\
+     [PDF](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.PDF) | [Code](https://github.com/Fuyao233/Knowledge-Neurons-in-Multilingual-Pretrained-Language-Models)
   </div>
 </div>
 
-​	[PDF](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.pdf)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; max-height: 28%; max-width: 59%; position: relative; left: 12%;">
+    <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/knowledge_neurons.png" alt="图片" style="max-width: 50%;">
+  </div>
+  <div style="flex: 1; padding: 0px;">
+    <font color="FireBrick">Knowledge Engineering Practice: Diabetic Knowledge Map Construction and Prescription Prediction</font> \\
+    *Leader* \\
+     [PDF](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.PDF) | [Code](https://github.com/Fuyao233/Knowledge-Neurons-in-Multilingual-Pretrained-Language-Models)
+  </div>
+</div>
+
 
 
 
