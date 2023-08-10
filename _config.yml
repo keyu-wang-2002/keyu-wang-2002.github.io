@@ -31,16 +31,27 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 #       icon: "fas fa-fw fa-file-pdf"
 #       url: "docs/CV.pdf"
 author:
-  name             : "Yinghao Cai"
-  avatar           : "images/1.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Hongjin Su 苏弘锦"
+  avatar           : "images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " " # descrption
-  location         : "Nanjing, China"
+  location         : "Hong Kong"
   email            :
-  github           : "Fuyao233"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hjsu@cs.hku.hk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://hongjin-su.github.io/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=zDsbIcgAAAAJ&hl=zh-CN&oi=sra"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/hongjin_su"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
-      url: "docs/CV.pdf"
+      url: "misc/CV.pdf"
 
 # Reading Files
 include:
