@@ -24,7 +24,7 @@ Hi! I am a 3-year undergraduate student majoring in Artificial Intelligence in [
 
 I am among the top 3% ranked students. During my undergraduate studies, I explored various research directions in the field of AI and leaded or participated in many projects under the guidance of my professors. The details of some of these projects are as follows. Currently, I am interested in the following areas: machine learning, particularly graph-based machine learning; knowledge graphs; natural language processing; and computer vision.
 
-Now, I am actively seeking professor who aligns with my areas of interest and would appreciate the opportunity to receive his/her guidance as I pursue further studies. If you find my profile intriguing, please feel free to reach out to me via email. You can find my email address in the left sidebar.
+Now, I am actively seeking professor who aligns with my areas of interest and would appreciate the opportunity to receive his/her guidance as I pursue further studies. If you find my profile intriguing, please feel free to reach out to me via email and my CV is [here](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.pdf). You can find my email address in the left sidebar.
 
 # Educations
 
