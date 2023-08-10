@@ -1,3 +1,162 @@
+# # Welcome to Jekyll!
+# #
+# # This config file is meant for settings that affect your entire site, values
+# # which you are expected to set up once and rarely need to edit after that.
+# # For technical reasons, this file is *NOT* reloaded automatically when you use
+# # `jekyll serve`. If you change this file, please restart the server process.
+
+# # Site Settings
+# title                    : "Yinghao Cai"
+# description              : "Undergraduate Student @SEU"
+# repository               : "Fuyao233/yinghaocai"
+# google_scholar_stats_use_cdn : false
+
+# # google analytics
+# google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+
+# # SEO Related
+# google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+# bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+# baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+
+# # Site Author
+# author:
+#   name: "Yinghao Cai"
+#   avatar: "images/1.jpg"
+#   location: "Nanjing, China"
+#   email: "yinghao@seu.edu.cn"
+#   github: "Fuyao233"
+#   links:
+#     - label: "CV"
+#       icon: "fas fa-fw fa-file-pdf"
+#       url: "docs/CV.pdf"
+
+# # author:
+# #   name             : "Hongjin Su 苏弘锦"
+# #   avatar           : "images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+# #   bio              : " " # descrption
+# #   location         : "Hong Kong"
+# #   email            :
+# #   links:
+# #     - label: "Email"
+# #       icon: "fas fa-fw fa-envelope-square"
+# #       url: "mailto:hjsu@cs.hku.hk"
+# #     - label: "Website"
+# #       icon: "fas fa-fw fa-link"
+# #       url: "https://hongjin-su.github.io/"
+# #     - label: "Google Scholar"
+# #       icon: "fas fa-fw fa-graduation-cap"
+# #       url: "https://scholar.google.com/citations?user=zDsbIcgAAAAJ&hl=zh-CN&oi=sra"
+# #     - label: "Twitter"
+# #       icon: "fab fa-fw fa-twitter-square"
+# #       # url: "https://twitter.com/hongjin_su"
+# #     - label: "CV"
+# #       icon: "fas fa-fw fa-file-pdf"
+# #       url: "misc/CV.pdf"
+
+# # Reading Files
+# include:
+#   - .htaccess
+#   - _pages
+#   - files
+# exclude:
+#   - docs
+#   - google_scholar_crawler
+#   - "*.sublime-project"
+#   - "*.sublime-workspace"
+#   - .asset-cache
+#   - .bundle
+#   - .jekyll-assets-cache
+#   - .sass-cache
+#   - .github
+#   - CHANGELOG
+#   - Capfile
+#   - Gemfile
+#   - Gruntfile.js
+#   - LICENSE
+#   - README
+#   - Rakefile
+#   - assets/js/_main.js
+#   - assets/js/plugins
+#   - assets/js/vendor
+#   - config
+#   - gulpfile.js
+#   - log
+#   - node_modules
+#   - package.json
+#   - tmp
+#   - vendor
+# keep_files:
+#   - .git
+#   - .svn
+# encoding: "utf-8"
+# markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# # Conversion
+# markdown: kramdown
+# highlighter: rouge
+# lsi: false
+# excerpt_separator: "\n\n"
+# incremental: false
+
+
+# # Markdown Processing
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   smart_quotes: lsquo,rsquo,ldquo,rdquo
+#   enable_coderay: false
+
+# # Defaults
+# defaults:
+#   # _pages
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       layout: default
+#       author_profile: true
+
+
+# # Sass/SCSS
+# sass:
+#   sass_dir: _sass
+#   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# # Outputting
+# permalink: /:categories/:title/
+# timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# # Plugins
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jekyll-redirect-from
+# # mimic GitHub Pages with --safe
+# whitelist:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
+
+
+# # HTML Compression
+# # - http://jch.penibelst.de/
+# compress_html:
+#   clippings: all
+#   ignore:
+#     envs: development
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -6,9 +165,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yinghao Cai"
-description              : "Undergraduate Student @SEU"
-repository               : "Fuyao233/yinghaocai"
+title                    : "Fan Zhou's Homapage"
+description              : "M.S. Student @SJTU"
+repository               : "koalazf99/koalazf99.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,38 +180,43 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name: "Yinghao Cai"
-  avatar: "images/1.jpg"
-  location: "Nanjing, China"
-  email: "yinghao@seu.edu.cn"
-  github: "Fuyao233"
-  links:
-    - label: "CV"
-      icon: "fas fa-fw fa-file-pdf"
-      url: "docs/CV.pdf"
+  name             : "Fan Zhou"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Shanghai Jiao Tong University"
+  location         : "Shanghai, China"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=qi8UzmkAAAAJ&hl=en"
+  email            : "zhoufan98@sjtu.edu.cn"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri              :  "https://www.semanticscholar.org/author/Fan-Zhou/2153433679"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "koalazf99"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : # e.g., "https://orcid.org/xxxx"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
-# author:
-#   name             : "Hongjin Su 苏弘锦"
-#   avatar           : "images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-#   bio              : " " # descrption
-#   location         : "Hong Kong"
-#   email            :
-#   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "mailto:hjsu@cs.hku.hk"
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://hongjin-su.github.io/"
-#     - label: "Google Scholar"
-#       icon: "fas fa-fw fa-graduation-cap"
-#       url: "https://scholar.google.com/citations?user=zDsbIcgAAAAJ&hl=zh-CN&oi=sra"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       # url: "https://twitter.com/hongjin_su"
-#     - label: "CV"
-#       icon: "fas fa-fw fa-file-pdf"
-#       url: "misc/CV.pdf"
 
 # Reading Files
 include:
