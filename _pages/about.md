@@ -41,11 +41,6 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
 
 # Publications 
 
-**TODO:**
-
-- 侧边栏CV链接
-- 图文、html格式失效
-
 
 
 ​			
@@ -56,10 +51,19 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
   </div>
   <div style="flex: 1; padding: 0px;">
     <font color="FireBrick">Knowledge Engineering Practice: Diabetic Knowledge Map Construction and Prescription Prediction</font><br>
-    *Leader*<br>
-     [PDF](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.PDF) | [Code](https://github.com/Fuyao233/Knowledge-Neurons-in-Multilingual-Pretrained-Language-Models)
+    <strong>Leader</strong><br>
+    [<span><strong>Report</strong></span>](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.PDF) | [<span ><strong>Code</strong></span>](https://github.com/Fuyao233/Knowledge-Neurons-in-Multilingual-Pretrained-Language-Models)
   </div>
-</div>
+</div>
+
+
+
+
+
+
+
+
+
 
 
 
