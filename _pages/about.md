@@ -41,15 +41,26 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
 
 # Publications 
 
+<div class='paper-box-text' markdown="1">
+<font><strong>SPARSE AND LOW-RANK HIGH-ORDER TENSOR REGRESSION
+    VIA PARALLEL PROXIMAL METHOD</strong></font>
+Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding author) \\
+**(2023, Preprint)** |  [PDF](https://arxiv.org/pdf/1911.12965.pdf)
+</div>
 
 
-​			
+
+
+
+# Projects
+
+​		
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; max-height: 28%; max-width: 59%;">
     <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/GGUN.png" alt="图片" style="max-width: 100%;">
   </div>
-  <div style="flex: 1; padding: 0px;">
+  <div style="flex: 1; padding: 0px;" markdown="1" >
     <font color="FireBrick">Knowledge Engineering Practice: Diabetic Knowledge Map Construction and Prescription Prediction</font><br>
     <strong>Leader</strong><br>
     [<span><strong>Report</strong></span>](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.PDF) | [<span ><strong>Code</strong></span>](https://github.com/Fuyao233/Knowledge-Neurons-in-Multilingual-Pretrained-Language-Models)
@@ -59,34 +70,6 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
 
 
 
-
-
-
-
-
-
-
-
-
-
-<div class='paper-box-text' markdown="1">
-<font color="FireBrick">SPARSE AND LOW-RANK HIGH-ORDER TENSOR REGRESSION
-VIA PARALLEL PROXIMAL METHOD</font>
-Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding author) \\
-**(2023, Preprint)** |  [PDF](https://arxiv.org/pdf/1911.12965.pdf)
-</div>
-
-​		
-
-
-
-
-
-
-
-
-
-# Projects
 
 
 
