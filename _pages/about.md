@@ -67,7 +67,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
         <li>Adopted the reinforcement learning algorithms and started  Python and C++ hybrid programming as expected</li>
     </ul>
     <strong>In progress</strong><br>
-    <em>Leader</em>
+    <em>Leader</em></div>
 
 
 
@@ -83,7 +83,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     </ul>
     <strong>2022 – 2023</strong><br>
     <em>Member</em> |
-    <a href="https://arxiv.org/pdf/1911.12965.pdf"><strong>Paper</strong></a>
+    <a href="https://arxiv.org/pdf/1911.12965.pdf"><strong>Paper</strong></a></div>
 
 ​    
 
@@ -100,7 +100,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     </ul>
     <strong>Mar. 2023 – Jun. 2023</strong><br>
     <em>Leader</em> |
-    <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/知识工程实践报告.pdf"><strong>Report</strong></a>
+    <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/知识工程实践报告.pdf"><strong>Report</strong></a></div>
 
 
 
@@ -117,7 +117,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     </ul>
         <strong>Mar. 2023 – Jun. 2023</strong><br>
     <em>Leader</em> |
-    <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/knowledge_neuron_report.pdf"><strong>Report</strong></a> | <a href="https://github.com/Fuyao233/Knowledge-Neurons-in-Multilingual-Pretrained-Language-Models"><strong>Code</strong></a>
+    <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/knowledge_neuron_report.pdf"><strong>Report</strong></a> | <a href="https://github.com/Fuyao233/Knowledge-Neurons-in-Multilingual-Pretrained-Language-Models"><strong>Code</strong></a></div>
 
 
 
@@ -133,7 +133,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     </ul>
         <strong>Sep. 2022 – Dec. 2022</strong><br>
     <em>Leader</em> |
-    <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/video-caption-report.pdf"><strong>Report</strong></a> 
+    <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/video-caption-report.pdf"><strong>Report</strong></a> </div>
 
 ​	
 
@@ -148,7 +148,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
         <li>Explored the application of image processing in the medical field</li>
     </ul>
     <strong>Mar. 2022 – Jun. 2022</strong><br>
-    <em>Member</em> | <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/ARDS肺部轮廓分割小组实验报告.pdf"><strong>Report</strong></a>
+    <em>Member</em> | <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/ARDS肺部轮廓分割小组实验报告.pdf"><strong>Report</strong></a></div>
 
 
 
@@ -163,7 +163,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
         <li>Enriched my knowledge of web building and design; self-learned different frameworks like HTML, CSS, JavaScript, and Vue</li>
     </ul>
         <strong>Jul. 2022 – Aug. 2022</strong><br>
-    <em>Leader</em> 
+    <em>Leader</em> </div>
 
 
 
@@ -178,7 +178,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
         <li>Learned from scratch how to design a study project, and how to adjust the research method in time and give clear and logical reports</li></ul>
     <strong>2021 – 2022</strong><br>
 <em>Leader</em> |
-<a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/superpixel-report.pdf"><strong>Report</strong></a> 
+    <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/superpixel-report.pdf"><strong>Report</strong></a> </div>
 
 
 
