@@ -55,11 +55,11 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
     <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/GGUN.png" alt="图片" style="max-width: 100%;">
   </div>
   <div style="flex: 1; padding: 0px;">
-    <font color="FireBrick">Knowledge Engineering Practice: Diabetic Knowledge Map Construction and Prescription Prediction</font> \\
-    *Leader* \\
+    <font color="FireBrick">Knowledge Engineering Practice: Diabetic Knowledge Map Construction and Prescription Prediction</font><br>
+    *Leader*<br>
      [PDF](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.PDF) | [Code](https://github.com/Fuyao233/Knowledge-Neurons-in-Multilingual-Pretrained-Language-Models)
   </div>
-</div>
+</div>
 
 
 
