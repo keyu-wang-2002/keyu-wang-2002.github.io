@@ -159,7 +159,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
 <div class='paper-box-text' style="max-width: 59%">
     <font color="FireBrick">Tutor Recommendation System Development</font><br>
 	<ul>
-        <li>Built a website to realize the function of recommending graduation design tutors to undergraduate students, including collecting tutors’ information with a web crawler, building the back-end database, designing the front-end interface and search recommendation algorithm, as well as connecting the front and back endsli>
+        <li>Built a website to realize the function of recommending graduation design tutors to undergraduate students, including collecting tutors’ information with a web crawler, building the back-end database, designing the front-end interface and search recommendation algorithm, as well as connecting the front and back ends</li>
         <li>Enriched my knowledge of web building and design; self-learned different frameworks like HTML, CSS, JavaScript, and Vue</li>
     </ul>
         <strong>Jul. 2022 – Aug. 2022</strong><br>
