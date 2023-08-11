@@ -61,7 +61,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/GGUN.png" alt="图片" style="max-width: 100%;">
   </div>
   <div style="flex: 1; padding: 0px;" markdown="1" >
-    <font>**Knowledge Engineering Practice: Diabetic Knowledge Map Construction and Prescription Prediction**</font><br>		 \\
+    <font color="FireBrick">Knowledge Engineering Practice: Diabetic Knowledge Map Construction and Prescription Prediction</font>		 \\
     *Leader* |
     [**Report**](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.PDF) | [<span ><strong>Code</strong></span>](https://github.com/Fuyao233/Knowledge-Neurons-in-Multilingual-Pretrained-Language-Models)
   </div>
