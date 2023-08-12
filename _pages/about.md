@@ -18,6 +18,8 @@ redirect_from:
 
 
 
+<br>
+
 # Biography
 
 Hi! I am a 3-year undergraduate student majoring in Artificial Intelligence in [Southeast University](https://www.seu.edu.cn/). I will receive my bachelor degree in 2024. I am supervised by [Prof. Beilun Wang](https://cse.seu.edu.cn/2019/0105/c23024a257533/pagem.htm) in [Lab Wang](https://xgbxscwx.seu.edu.cn/wang-labsite/). 	
@@ -26,18 +28,20 @@ I am among the top 3% ranked students. During my undergraduate studies, I explor
 
 Now, I am actively seeking professor who aligns with my areas of interest and would appreciate the opportunity to receive his/her guidance as I pursue further studies. If you find my profile intriguing, please feel free to reach out to me via email and my CV is [here](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.pdf). You can find my email address in the left sidebar.
 
+<br>
+
 # Educations
 
 - *2020.06 - 2024.06 (expected)*, B.S., SEU, Artificial Intelligence
 
-
+<br>
 
 # Honors and Awards
 
 - *2020-2021*, National Scholarship
 - *2020-2021*, Merit Student at Southeast University 
 
-
+<br>
 
 # Publications 
 
@@ -47,14 +51,10 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
 Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding author) \\
 **(2023, Preprint)** |  [PDF](https://arxiv.org/pdf/1911.12965.pdf)
 </div>
-
-
-
+<br>
 
 
 # Projects
-
-​	
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; max-height: 50%; max-width: 59%;">
@@ -69,7 +69,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     <strong>In progress</strong><br>
     <em>Leader</em></div></div>
 
-
+<hr>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; max-height: 50%; max-width: 59%;">
@@ -85,12 +85,12 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     <em>Member</em> |
     <a href="https://arxiv.org/pdf/1911.12965.pdf"><strong>Paper</strong></a></div></div>
 
-​    
+​    <hr>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-height: 50%; max-width: 59%;">
-    <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/KG-engineer.png" alt="图片" style="max-width: 100%;">
-  </div>
+<div style="flex: 1; max-height: 50%; max-width: 59%;">
+  <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/KG-engineer.png" alt="图片" style="max-width: 100%; max-height: 50%; max-width: 100%; padding: 20px; position: relative;">
+</div>
 <div class='paper-box-text' style="max-width: 59%">
     <font color="FireBrick">Knowledge Engineering Practice: Diabetic Knowledge Map Construction and Prescription Prediction</font><br>
 	<ul>
@@ -102,12 +102,12 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     <em>Leader</em> |
     <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/知识工程实践报告.pdf"><strong>Report</strong></a></div></div>
 
-
+<hr>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-height: 40%; max-width: 59%;">
-    <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/knowledge_neurons.png" alt="图片" style="max-width: 100%;">
-  </div>
+<div style="flex: 1; max-height: 40%; max-width: 59%;">
+  <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/knowledge_neurons.png" alt="图片" style="max-width: 100%; max-width: 78%; max-height: 19%; padding: 10px; left: 10%; position: relative;">
+</div>
 <div class='paper-box-text' style="max-width: 59%; max-height: 50%">
     <font color="FireBrick">An Extended Study of Knowledge Neurons: Knowledge Neurons in Multilingual Pretrained Language Models</font><br>
 	<ul>
@@ -119,7 +119,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     <em>Leader</em> |
     <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/knowledge_neuron_report.pdf"><strong>Report</strong></a> | <a href="https://github.com/Fuyao233/Knowledge-Neurons-in-Multilingual-Pretrained-Language-Models"><strong>Code</strong></a></div></div>
 
-
+<hr>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; max-height: 50%; max-width: 59%;">
@@ -135,7 +135,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     <em>Leader</em> |
     <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/video-caption-report.pdf"><strong>Report</strong></a> </div></div>
 
-​	
+​	<hr>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; max-height: 50%; max-width: 59%;">
@@ -150,12 +150,12 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     <strong>Mar. 2022 – Jun. 2022</strong><br>
     <em>Member</em> | <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/ARDS肺部轮廓分割小组实验报告.pdf"><strong>Report</strong></a></div></div>
 
-
+<hr>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-height: 50%; max-width: 59%;">
-    <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/recommendation.png" alt="图片" style="max-width: 100%;">
-  </div>
+<div style="flex: 1; max-height: 50%; max-width: 59%;">
+  <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/recommendation.png" alt="图片" style="max-width: 100%; max-height: 50%; max-width: 100%; padding: 10px;">
+</div>
 <div class='paper-box-text' style="max-width: 59%">
     <font color="FireBrick">Tutor Recommendation System Development</font><br>
 	<ul>
@@ -165,12 +165,12 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
         <strong>Jul. 2022 – Aug. 2022</strong><br>
     <em>Leader</em> </div></div>
 
-
+<hr>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-height: 50%; max-width: 59%;">
-    <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/Superpixel.png" alt="图片" style="max-width: 100%;">
-  </div>
+<div style="flex: 1; max-height: 50%; max-width: 59%;">
+  <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/Superpixel.png" alt="图片" style="max-width: 100%; max-height: 50%; max-width: 100%; padding: 10px;">
+</div>
 <div class='paper-box-text' style="max-width: 59%">
     <font color="FireBrick">Superpixel Segmentation Task based on Deep Clustering</font><br>
 	<ul>
