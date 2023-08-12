@@ -135,7 +135,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     <em>Leader</em> |
     <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/video-caption-report.pdf"><strong>Report</strong></a> </div></div>
 
-	<hr>
+<hr>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; max-height: 50%; max-width: 59%;">
