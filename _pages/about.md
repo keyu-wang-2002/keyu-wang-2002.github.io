@@ -180,7 +180,4 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
 <em>Leader</em> |
     <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/superpixel-report.pdf"><strong>Report</strong></a> </div></div>
 
-
-
-
-
+<div style="height: 75px;"></div>
