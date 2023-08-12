@@ -85,7 +85,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     <em>Member</em> |
     <a href="https://arxiv.org/pdf/1911.12965.pdf"><strong>Paper</strong></a></div></div>
 
-​    <br>
+<hr>
 
 <div style="display: flex; align-items: center;">
 <div style="flex: 1; max-height: 50%; max-width: 59%;">
@@ -135,7 +135,7 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
     <em>Leader</em> |
     <a href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/video-caption-report.pdf"><strong>Report</strong></a> </div></div>
 
-​	<br>
+	<hr>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; max-height: 50%; max-width: 59%;">
