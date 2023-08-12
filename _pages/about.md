@@ -30,7 +30,7 @@ Now, I am actively seeking professor who aligns with my areas of interest and wo
 
 <br>
 
-# Educations
+# Education
 
 - *2020.06 - 2024.06 (expected)*, B.S., SEU, Artificial Intelligence
 
