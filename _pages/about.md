@@ -92,9 +92,9 @@ Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding autho
   <img src="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/_pages/imgs/KG-engineer.png" alt="图片" style="max-width: 100%; max-height: 50%; max-width: 100%; padding: 20px; position: relative;">
 </div>
 <div class='paper-box-text' style="max-width: 59%">
-    <font color="FireBrick">Knowledge Engineering Practice: Diabetic Knowledge Map Construction and Prescription Prediction</font><br>
+    <font color="FireBrick">Knowledge Engineering Practice: Diabetic Knowledge Graph Construction and Prescription Prediction</font><br>
 	<ul>
-        <li>Made the project plan according to team discussions and the strengths of team members and designed the process of knowledge map construction </li>
+        <li>Made the project plan according to team discussions and the strengths of team members and designed the process of knowledge Graph construction </li>
         <li>Read a large number of related papers and figured out an algorithm to deal with the thousands of pieces of data on diabetes cases</li>
         <li>Helped the team and other members with data processing tasks such as named entity recognition</li>
     </ul>
