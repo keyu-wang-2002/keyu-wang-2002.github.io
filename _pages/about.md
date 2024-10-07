@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Yinghao Cai"
+layout: default
 excerpt: ""
 author_profile: true
 redirect_from: 
