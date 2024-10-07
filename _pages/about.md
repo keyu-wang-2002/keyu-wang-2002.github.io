@@ -22,17 +22,17 @@ redirect_from:
 
 # Biography
 
-I am the first year graduate student of Computer Science in [University of Copenhagen](https://www.ku.dk/english/) and remotely interning in Prof. [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home)'s lab. <font color='FireBrick'>**Now we focus on graph representation learning, especially on heterophily graphs.** </font>
+I am a first-year graduate student in Computer Science at the [University of Copenhagen](https://www.ku.dk/english/) and currently interning in Prof. [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home)'s lab. <font color='FireBrick'>**Our research focuses on graph representation learning, particularly in the context of heterophily graphs.** </font>
 
-Before that I got my bachelor degree in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/). I was fortunate to be supervised by [Prof. Beilun Wang](https://cse.seu.edu.cn/2019/0105/c23024a257533/pagem.htm) and Prof. [Yuheng Jia](https://jyh-learning.github.io/). 
+Before that, I obtained my Bachelor's degree in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I had the privilege of being supervised by [Prof. Beilun Wang](https://cse.seu.edu.cn/2019/0105/c23024a257533/pagem.htm) and Prof. [Yuheng Jia](https://jyh-learning.github.io/). 
 
-During my undergraduate studies, I am among the top 3% ranked students. I explored various research directions in the field of AI and leaded or participated in many projects under the guidance of my professors. The details of some of these projects are as follows. Currently, I am interested in the following areas: graph, representation learning, AI4Biology.
+During my undergraduate studies, I ranked among the top 3% and explored various research directions in the field of AI. Under the guidance of my professors, I led or participated in multiple research projects, some of which are outlined below.
 
-Now, I am actively seeking professor who aligns with my areas of interest and would appreciate the opportunity to pursue the PhD degree. If you find my profile intriguing, please feel free to reach out to me via email and my CV is [here](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.pdf). 
-
-My email: hxj557@alumni.ku.dk
+Currently, my research interests include <font color='FireBrick'>**graph, representation learning, AI4Biology**</font> and related fields. I am actively seeking a PhD supervisor whose research aligns with my interests. If you find my profile intriguing, I would greatly appreciate the opportunity to discuss potential collaborations. Please feel free to reach out to me via email, and you can find my CV [here](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.pdf). You can contact me at :e-mail: ​**hxj557@alumni.ku.dk**
 
 <br>
+
+:e-mail:
 
 # Education
 
