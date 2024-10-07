@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yinghao Cai"
-description              : "Undergraduate Student @SEU"
+description              : "Graduate Student @UCPH"
 repository               : "Fuyao233/yinghaocai"
 # google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name: "Yinghao Cai"
   avatar: "images/1.jpg"
-  location: "Nanjing, China"
-  email: "yinghao@seu.edu.cn"
+  location: "Copenhagen, Denmark"
+  email: "hxj557@alumni.ku.dk"
   github: "Fuyao233"
   links:
     - label: "CV"
