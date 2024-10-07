@@ -23,7 +23,7 @@ redirect_from:
 
 # Biography
 
-I am a first-year graduate student in Computer Science at the [University of Copenhagen](https://www.ku.dk/english/) and currently interning in Prof. [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home)'s lab. <font color='FireBrick'><strong>Our research focuses on graph representation learning, particularly in the context of heterophily graphs.</strong>> </font>
+I am a first-year graduate student in Computer Science at the [University of Copenhagen](https://www.ku.dk/english/) and currently interning in Prof. [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home)'s lab. <font color='FireBrick'><strong>Our research focuses on graph representation learning, particularly in the context of heterophily graphs.</strong></font>
 
 Before that, I obtained my Bachelor's degree in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I had the privilege of being supervised by [Prof. Beilun Wang](https://cse.seu.edu.cn/2019/0105/c23024a257533/pagem.htm) and Prof. [Yuheng Jia](https://jyh-learning.github.io/). 
 
