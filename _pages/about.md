@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yinghao Cai"
+title: "Keyu Wang"
 layout: default
 excerpt: ""
 author_profile: true
@@ -35,26 +35,15 @@ I am actively seeking research internship, research collaborations and potantial
 
 <br>
 
-# Publications 
+# Publications (Selected)
 
 <div class='paper-box-text' markdown="1">
-<font color='FireBrick'>Exploring Consistency in Graph Representations:from Graph Kernels to
-Graph Neural Networks</font>
-Xuyuan Liu, **Yinghao Cai**, Qihui Yang, Yujun Yan\*(* corresponding author) \\
-**(NeurlPS 2024)** 
+<font color='FireBrick'> Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study </font>
+**Keyu Wang**, Guilin Qi\*, Jiaqi Li and Songlin Zhai (* corresponding author) \\
+**(EMNLP 2024 Findings)** 
 </div>
 
 <br>
-
-<div class='paper-box-text' markdown="1">
-<font color='FireBrick'>SPARSE AND LOW-RANK HIGH-ORDER TENSOR REGRESSION
-    VIA PARALLEL PROXIMAL METHOD</font>
-Jiaqi Zhang, **Yinghao Cai**, Zhaoyang Wang, Beilun Wang\*(* corresponding author) \\
-**(2023, Preprint)** |  [PDF](https://arxiv.org/pdf/1911.12965.pdf)
-</div>
-<br>
-
-
 
 
 
