@@ -40,7 +40,7 @@ I am actively seeking research internship, research collaborations and potantial
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study </font>
 **Keyu Wang**, Guilin Qi\*, Jiaqi Li and Songlin Zhai (*corresponding author) \\
-**(EMNLP 2024 Findings)** | [(PDF)](https://arxiv.org/abs/2406.17532)
+**(EMNLP 2024 Findings)** | [PDF](https://arxiv.org/abs/2406.17532)
 </div>
 
 <br>
@@ -48,7 +48,7 @@ I am actively seeking research internship, research collaborations and potantial
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> An Embedding-based Approach to Inconsistency-tolerant Reasoning with Inconsistent Ontologies </font>
 **Keyu Wang**, Site Li, Jiaye Li, Guilin Qi\*, Qiu Ji (*corresponding author) \\
-**(IJCKG 2023)** | [(PDF)]([https://arxiv.org/abs/2304.01664])
+**(IJCKG 2023)** | [PDF]([https://arxiv.org/abs/2304.01664])
 </div>
 
 
