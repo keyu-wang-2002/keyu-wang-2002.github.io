@@ -19,7 +19,7 @@ I am a first-year graduate student in Machine Learning at the [University of Tue
 
 Currently, my research interests include <font color='FireBrick'><strong>large language models, mathematical reasoning, casual inference, web science & social networks, machine learning</strong></font>. My previous interests cover neuro-symbolic knowledge representation and reasoning, especially, embedding and inference with knowledge-based and web-based systems such as knowledge graphs and ontologies.
 
-I am actively seeking research internship, research collaborations and potantial PhD supervisors. If you find my profile intriguing, I would greatly appreciate the opportunity to discuss potential collaborations. Please feel free to reach out to me via email, and you can find my CV [here](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.pdf). You can contact me at​ ​**keyu.wang@student.uni-tuebingen.de**
+I am actively seeking research internship, research collaborations and potantial PhD supervisors. If you find my profile intriguing, I would greatly appreciate the opportunity to discuss potential collaborations. Please feel free to reach out to me via email, and you can find my CV [here](https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/docs/CV.pdf). You can contact me at​ ​**keyu.wang@student.uni-tuebingen.de** and **keyu.wang54@outlook.com**.
 
 <br>
 
@@ -35,7 +35,7 @@ I am actively seeking research internship, research collaborations and potantial
 
 <br>
 
-# Publications (Selected)
+# Publications & Pre-prints (Selected)
 
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study </font>
