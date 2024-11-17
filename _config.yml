@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Keyu Wang"
-description              : "Graduate Student @ University of Tuebingen"
+description              : "Master Student @ University of Tuebingen"
 # repository               : "Fuyao233/yinghaocai"
 # google_scholar_stats_use_cdn : false
 
@@ -27,6 +27,9 @@ author:
   email: "keyu.wang@student.uni-tuebingen.de"
   github: "keyu-wang-2002"
   links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=IvXDjWUAAAAJ&hl=zh-CN"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "docs/CV.pdf"
