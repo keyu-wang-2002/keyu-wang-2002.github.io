@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yinghao Cai"
-description              : "Graduate Student @UCPH"
-repository               : "Fuyao233/yinghaocai"
+title                    : "Keyu Wang"
+description              : "Graduate Student @ University of Tuebingen"
+# repository               : "Fuyao233/yinghaocai"
 # google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name: "Yinghao Cai"
-  avatar: "images/1.jpg"
-  location: "Copenhagen, Denmark"
-  email: "hxj557@alumni.ku.dk"
-  github: "Fuyao233"
+  name: "Keyu Wang"
+  avatar: "images/Keyu.jpg"
+  location: "Tuebingen, Germany"
+  email: "keyu.wang@student.uni-tuebingen.de"
+  github: "keyu-wang-2002"
   links:
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
