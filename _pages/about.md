@@ -49,13 +49,6 @@ I am actively seeking research internship, research collaborations and potantial
 
 <br>
 
-<div class='paper-box-text' markdown="1">
-<font color='FireBrick'> An Embedding-based Approach to Inconsistency-tolerant Reasoning with Inconsistent Ontologies </font>
-**Keyu Wang**, Site Li, Jiaye Li, Guilin Qi\*, Qiu Ji (*corresponding author) \\
-**(IJCKG 2023)** | [PDF]([https://arxiv.org/abs/2304.01664])
-</div>
 
-
-<br>
 
 <div style="height: 75px;"></div>
