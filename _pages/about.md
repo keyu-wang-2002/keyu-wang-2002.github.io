@@ -27,8 +27,8 @@ I am actively seeking research internships, research collaborations and potantia
 
 # Education
 
-- *2024.10 - Present*, M.Sc, **University of Tuebingen**, Machine Learning
-- *2020.09 - 2024.06*, B.Eng., **Southeast University**, Artificial Intelligence
+- *2024.10 - Present*, M.Sc in Machine Learning, **University of Tuebingen**, Tuebingen, Germany
+- *2020.09 - 2024.06*, B.Eng. in Artificial Intelligence, **Southeast University**, Nanjing, China
 
 <br>
 
