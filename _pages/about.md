@@ -19,7 +19,7 @@ I am a first-year master student in Machine Learning at [University of Tuebingen
 
 Currently, my interests include <font color='FireBrick'><strong>large language models, trustworthy and explainable machine learning, mathematical and logical reasoning, casual inference, graph theory, web science & social networks</strong></font>. My previous research interests cover <font color='FireBrick'><strong>neuro-symbolic knowledge representation and reasoning</strong></font>, especially, embedding and inference with knowledge-based and web-based systems such as knowledge graphs and ontologies.
 
-I am actively seeking research internships, research collaborations and potantial PhD supervisors. If you find my profile intriguing, I would greatly appreciate the opportunity to discuss potential collaborations. Please feel free to reach out to me via email, and you can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/CV.pdf). You can contact me at​ ​**keyu.wang@student.uni-tuebingen.de** or **keyu.wang54@outlook.com**.
+I am actively seeking research internships, research collaborations and potantial PhD supervisors. If you find my profile intriguing, I would greatly appreciate the opportunity to discuss potential collaborations. Please feel free to reach out to me via email, and you can find my <font color='FireBrick'><strong>CV</strong></font> [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/CV.pdf). You can contact me at​ ​**keyu.wang@student.uni-tuebingen.de** or **keyu.wang54@outlook.com**.
 
 <br>
 
