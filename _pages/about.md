@@ -15,7 +15,7 @@ redirect_from:
 
 # Biography
 
-I am a first-year master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Before that, I obtained my Bachelor's degree in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I had the privilege of being supervised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN). 
+I am a first-year master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). I am advised by [Dr. Shiwei Liu](https://arxiv.org/abs/2304.01664) and investigate on inference scaling. Before that, I obtained my Bachelor's degree in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I had the privilege of being supervised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN). 
 
 Currently, my interests include <font color='FireBrick'><strong> efficient inference with large foundational models, AI trustworthiness & safety </strong></font>. My previous research interests cover <font color='FireBrick'><strong>neuro-symbolic knowledge representation and reasoning</strong></font>, especially, inference[[EMNLP 2024]](https://aclanthology.org/2024.findings-emnlp.141/)[[IJCKG 2023]](https://arxiv.org/abs/2304.01664) and embedding[[ArXiv 2024]](https://arxiv.org/abs/2402.01677) with knowledge-based and web-based systems such as knowledge graphs and ontologies.
 
