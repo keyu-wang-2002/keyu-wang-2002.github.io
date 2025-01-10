@@ -50,10 +50,10 @@ Please feel free to reach out to me via email, and you can find my <font color='
 <br>
 
 # More About Me
-- I like all kinds of sports, like basketball, table tennis, football, tennis, badminton, marathons, jogging, hiking and climbing.  Currently, I go to gyms three times a week, and my goal for 2025 is to meet the physical fitness standards of the People's Liberation Army of China.
-- I am a big fan of board and card games. German board games are great! My favorite games were Texas Hold'em Poker, "Guan Dan" (掼蛋， a popular Chinese card game), and "Jun Qi" (军棋， a Chinese strategy board game). I used to be extremely passionate about strategy games like Civilization VI and Plant V.S. Zombie.
+- I like all kinds of sports, like basketball, table tennis, football, tennis, badminton, marathons, jogging, hiking and climbing.  Currently, I go to gym three times a week.
+- I am a big fan of board and card games. German board games are great! My favorite games were Texas Hold'em Poker, "Guan Dan" (掼蛋， a popular Chinese card game), and "Jun Qi"/Kriegspiel (Chinese version)/Chinese Army Chess (军棋， a Chinese strategy board game). I used to be extremely passionate about strategy games like Civilization VI and Plant V.S. Zombie.
 - I enjoy animation, movie, cooking, traveling, reading (books, magazines and poems) and music.
-- I dream of being a principle investigator when I am between my 30 - 70, and being a writer after I get retired at 70.
+- I dream of being a principle investigator when I am between my 30 - 70, and being a writer after I get retired at 70 years old.
 
 
 <div style="height: 75px;"></div>
