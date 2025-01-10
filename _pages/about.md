@@ -50,7 +50,7 @@ Please feel free to reach out to me via email, and you can find my <font color='
 <br>
 
 # More About Me
-- I like all kinds of sports, like basketball, table tennis, football, tennis, badminton and marathons. I am ADHD and jogging or walking makes me calm and happy. Currently, I go to gyms three times a week, and my goal for 2025 is to meet the physical fitness standards of the People's Liberation Army of China.
+- I like all kinds of sports, like basketball, table tennis, football, tennis, badminton and marathons. Also, jogging makes me calm and happy. Currently, I go to gyms three times a week, and my goal for 2025 is to meet the physical fitness standards of the People's Liberation Army of China.
 - I am a big fan of board and card games. German board games are great! My favorite games were Texas Hold'em Poker, "Guan Dan" (掼蛋， a popular Chinese card game), and "Jun Qi" (军棋， a Chinese strategy board game).
 - I also enjoy cooking, traveling, reading and music. I want to be a writer when I am 70 years old and retired.
 
