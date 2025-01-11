@@ -50,7 +50,7 @@ Please feel free to reach out to me via email, and you can find my <font color='
 <br>
 
 # More About Me
-- My Chinese name is 汪可予. 可(Ke)予(Yu) Keyu is my given name. "Ke" is pronounced with /kə:/ and "Yu" is pronounced with the German "ü" sound, the lip shape is rounder and positioned further forward in the mouth compared to the English "u". So you can pronounce me with /kə - ü/. The origin of my name is from my mother's name, "阿抒" by removing the radicals from her name.
+- My Chinese name is 汪可予. 可(Ke)予(Yu) Keyu is my given name. "Ke" is pronounced with /kə:/ and "Yu" is pronounced with the German "ü" sound, the lip shape is rounder and positioned further forward in the mouth compared to the English "u". So you can pronounce me with /kə - ü/. 
 - I like all kinds of sports, such as  basketball, table tennis, football, tennis, badminton, marathons, jogging, hiking and climbing.  Currently, I go to gym three times a week. My goal for 2025 is to meet the physical fitness standards of military personnel from various countries.
 - I am a big fan of board and card games. German board games are great! My favorite games are Texas Hold'em Poker, "Guan Dan" (掼蛋， a popular Chinese card game), and "Jun Qi" (军棋/Kriegspiel/Chinese Army Chess). I used to be extremely passionate about strategy games like Civilization VI and varients of Plant v.s. Zombie.
 - I enjoy cooking, traveling, reading, music, animation and movie.
