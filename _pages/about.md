@@ -19,7 +19,7 @@ I am a first-year master student in Machine Learning at [University of Tuebingen
 
 Currently, my interests include <font color='FireBrick'><strong> large foundational models,  machine learning systems, AI Efficiency & Trustworthiness </strong></font>. During undergraduate research, I investigated broadly on  <font color='FireBrick'><strong>neuro-symbolic knowledge representation and reasoning</strong></font>, especially, inference[[EMNLP 2024]](https://aclanthology.org/2024.findings-emnlp.141/)[[IJCKG 2023]](https://arxiv.org/abs/2304.01664) and embedding[[ArXiv 2024]](https://arxiv.org/abs/2402.01677) with knowledge-based and web-based systems such as knowledge graphs and ontologies.
 
-Please feel free to reach out to me via email, and you can find my <font color='FireBrick'><strong>CV</strong></font> [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/CV-2.pdf). You can contact me at​ ​**keyu.wang@student.uni-tuebingen.de** or **keyu.wang54@outlook.com**.
+Please feel free to reach out to me via email, and you can find my <font color='FireBrick'><strong>CV</strong></font> [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/CV-3.pdf). You can contact me at​ ​**keyu.wang@student.uni-tuebingen.de** or **keyu.wang54@outlook.com**.
 
 <br>
 
