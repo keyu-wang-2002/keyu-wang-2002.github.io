@@ -51,10 +51,10 @@ Please feel free to reach out to me via email, and you can find my <font color='
 
 # More About Me
 - My Chinese name is 汪可予. 可(Ke)予(Yu) Keyu is my given name. "Ke" is pronounced with /kə:/ and "Yu" is pronounced with the German "ü" sound, the lip shape is rounder and positioned further forward in the mouth compared to the English "u". So you can pronounce me with /kə - ü/.
-- I enjoy  traveling, reading, cooking, music, animation and movie. I am a kind of anime enthusiast enjoying real-life fulfillment (二次元现充).
+- I enjoy  traveling, reading, cooking, music, animation and movie. 
 - I like all kinds of sports, such as  basketball, table tennis, football, tennis, badminton, marathons, swimming, jogging, hiking and climbing.  Currently, I go to gym three times a week. My goal for 2025 is to meet the physical fitness standards of military personnel from various countries.
-- I am a big fan of board and card games. German board games are great! My favorite games are Texas Hold'em Poker, "Guan Dan" (掼蛋， a popular Chinese card game), and "Jun Qi" (军棋/Kriegspiel/Chinese Army Chess). I used to be extremely passionate about strategy games like Civilization VI and varients of Plant v.s. Zombie.
-- I dream of being a principle investigator between my 30 - 70, and being a writer after I get retired at 70 years old.
+- I am a big fan of board and card games. German board games are great! My favorite games are Texas Hold'em Poker and "Jun Qi" (Chinese Army Chess). I used to be extremely passionate about strategy games like Civilization VI and varients of Plant v.s. Zombie.
+- I dream of being a principle investigator between my 30 - 70, and being a writer after I get retired at 70 years old. I also want to become an amateur science popularization columnist and a marine biologist.
 
 
 <div style="height: 75px;"></div>
