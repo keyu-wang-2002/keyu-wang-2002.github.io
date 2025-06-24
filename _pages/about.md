@@ -34,7 +34,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 
 
 # Internship
-- *2023.07 - 2024.06*, Research intern, **BSH Home Appliances Holding (China) Co., Ltd**, Nanjing, China
+- *2023.07 - 2024.06*, intern, **BSH Home Appliances Holding (China) Co., Ltd**, Nanjing, China
 
 
 <br>
