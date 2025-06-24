@@ -59,6 +59,7 @@ Selected, full publication list can be seen at my [Google Scholar](https://schol
 
 # More About Me
 - My Chinese name is 汪可予 (Wang Ke Yu).  "Ke" is pronounced with /kə:/ and "Yu" is pronounced with the German "ü" sound, the lip shape is rounder and positioned further forward in the mouth compared to the English "u". My name is pronounced with /kə:ü/ ([kě yú]).
+- I’m from Tongling in Anhui—'Tongling' literally means “the Copper Capital”—and it sits right on the Yangtze River. I highly recommend visiting Vernacular Villages In Southern Anhui, where you’ll find the most beautiful Huizhou-style architecture, the most delicious Huizhou cuisine, and China’s most premier mountain, Mount Huangshan.
 - I like all kinds of sports, such as  basketball, table tennis, football, tennis, badminton, marathons, swimming, jogging, hiking and climbing.  I also occasionally bowl and play billiards with my friends. Currently, I go to gym three times a week. My goal for 2025 is to meet the physical fitness standards of military personnel from various countries.
 - I enjoy animations, movies and music. I am a big fan of various chess, board and card games. My favorite games are Texas Hold'em Poker and "Jun Qi" (Chinese Army Chess). I used to be extremely passionate about strategy games like Civilization VI and varients of Plant v.s. Zombie.
 
