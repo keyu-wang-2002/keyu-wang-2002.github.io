@@ -15,7 +15,7 @@ redirect_from:
 
 # Biography
 
-Hi, I'm Keyu, a first-year master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Now I am advised by [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io). I obtained my Bachelor's degree in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I had the privilege of being supervised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN) and  had the most wonderful times at [SEU-131AIClub](https://github.com/131AIClub), witnessing the organization grow from its founding to its flourishing.
+Hi, I'm Keyu, a first-year master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Now I am advised by [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io). I obtained my Bachelor's degree in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was fortunate to be supervised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN) and  had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), witnessing the organization grow from its founding to its flourishing.
 
 Currently, My research interests cover <font color='FireBrick'><strong>Large Language Models, Machine Learning Systems, Reasoning, AI Efficiency and Trustworthy</strong></font>.  Particularly, I am keen on understanding how LLMs perform reasoning and eliciting it by <font color='FireBrick'><strong>inductive bias, low dimensionality and scaling</strong></font>, etc. During undergraduate research, I investigated broadly on  <font color='FireBrick'><strong>neuro-symbolic knowledge representation and reasoning</strong></font>, especially, reasoning[[EMNLP 2024]](https://aclanthology.org/2024.findings-emnlp.141/)[[IJCKG 2023]](https://arxiv.org/abs/2304.01664) and embedding[[DI 2024]](https://arxiv.org/abs/2402.01677) with knowledge graphs and description logic ontologies. 
 
@@ -27,7 +27,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 
 # Education
 
-- *2024.10 - Present*, M.Sc in Machine Learning, **University of Tuebingen**, Tuebingen, Germany
+- *2024.10 - Present*, M.Sc. in Machine Learning, **University of Tuebingen**, Tuebingen, Germany
 - *2020.09 - 2024.06*, B.Eng. in Artificial Intelligence, **Southeast University**, Nanjing, China
 
 <br>
