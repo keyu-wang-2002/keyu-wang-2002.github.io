@@ -48,13 +48,6 @@ Selected, full publication list can be seen at my [Google Scholar](https://schol
 **EMNLP 2024 Findings**  [[PDF]](https://aclanthology.org/2024.findings-emnlp.141/)
 </div>
 
-
-<div class='paper-box-text' markdown="1">
-<font color='FireBrick'> An Embedding-based Approach to Inconsistency-tolerant Reasoning with Inconsistent Ontologies </font>
-**Keyu Wang**, Site Li, Jiaye Li, Guilin Qi and Qiu Ji \\
-**IJCKG 2023**  [[PDF]](https://arxiv.org/abs/2304.01664)
-</div>
-
 <br>
 
 # More About Me
