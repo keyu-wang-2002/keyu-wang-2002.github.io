@@ -45,7 +45,7 @@ Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_w
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study </font>
 **Keyu Wang**, Guilin Qi, Jiaqi Li and Songlin Zhai \\
-**EMNLP 2024 Findings**  [[PDF]](https://aclanthology.org/2024.findings-emnlp.141.pdf) [[Supplementary]](https://aclanthology.org/2024.findings-emnlp.141/)
+**EMNLP 2024 Findings**  [[PDF]](https://aclanthology.org/2024.findings-emnlp.141.pdf)
 </div>
 
 <br>
