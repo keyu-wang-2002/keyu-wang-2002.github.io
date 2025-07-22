@@ -19,7 +19,7 @@ Hi, I'm Keyu, a first-year master student in Machine Learning at [University of 
 
 Currently, my research interests cover <font color='FireBrick'><strong>Large Language Models, Machine Learning Systems, Reasoning, AI Efficiency and Trustworthy</strong></font>.  Particularly, I am keen on understanding how LLMs perform reasoning and eliciting its efficiency and effectiveness, e.g., by <font color='FireBrick'><strong> test-time scaling and post-training </strong></font>. During undergraduate research, I focused on  <font color='FireBrick'><strong>neuro-symbolic knowledge representation and reasoning</strong></font>, especially, reasoning[[EMNLP 2024]](https://aclanthology.org/2024.findings-emnlp.141/)[[IJCKG 2023]](https://arxiv.org/abs/2304.01664) and embedding[[DI 2024]](https://arxiv.org/abs/2402.01677) with knowledge graphs and description logic ontologies. 
 
-I am open to research collaborations as well as internship or visiting opportunities. You can find my CV [here](https://github.com/keyu-wang-2002/keyu-wang-2002.github.io/blob/master/docs/Keyu_CV_July_2025.pdf) and please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
+I am open to research collaborations as well as internship or visiting opportunities. You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/Keyu_CV_July_2025.pdf) and please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
 <br>
 
