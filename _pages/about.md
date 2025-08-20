@@ -19,7 +19,7 @@ Hi, I'm Keyu, ~~an AI Alchemist~~ a first-year master student in Machine Learnin
 
 I am passionate about finding emerging questions in <font color='FireBrick'><strong>scaling pretraining, post-training, and test-time</strong></font> with compute, models, and data — spanning efficiency, robustness, generalization, and alignment, etc — and on seeking principled solutions from both system and algorithmic perspectives. Particularly, I am keen on understanding how LLMs perform reasoning and eliciting its effectiveness and efficiency in long-context reasoning scenarios. During undergraduate research, I broadly investigated on  neuro-symbolic knowledge representation and reasoning, especially, reasoning and embedding with knowledge graphs and description logic ontologies. 
 
-I am open to research collaborations as well as internship or visiting opportunities. You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/Keyu-CV-25-Aug.pdf) and please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
+I am open to research collaborations as well as internship or visiting opportunities. You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/Keyu_CV_2025_Aug.pdf) and please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
 <br>
 
