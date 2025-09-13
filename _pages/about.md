@@ -15,7 +15,7 @@ redirect_from:
 
 # Biography
 
-Hi, I'm Keyu, ~~an AI Alchemist~~ a first-year master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I’m working with [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io) on LLMs pruning and reasoning. I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was fortunate to be advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN). I also  had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), witnessing and contributing to its growth from founding to flourishing.
+Hi, I'm Keyu, ~~an AI Alchemist~~ a first-year master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I’m working with [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io) on model compression. I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was fortunate to be advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN). I also  had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), witnessing and contributing to its growth from founding to flourishing.
 
 I am passionate about finding emerging questions in <font color='FireBrick'><strong>scaling pretraining, post-training, and test-time computing</strong></font> with compute, models, and data — spanning reasoning capability, expressiveness, efficiency, robustness, generalization, and alignment, etc — and on seeking principled solutions from both system and algorithmic perspectives. Particularly, I am keen on understanding how LLMs perform reasoning and eliciting its effectiveness and efficiency in long-context reasoning scenarios. During undergraduate research, I broadly investigated on  neuro-symbolic knowledge representation and reasoning, especially, reasoning and embedding with knowledge graphs and description logic ontologies. 
 
@@ -33,7 +33,12 @@ I am open to research collaborations as well as internship or visiting opportuni
 <br>
 
 
-# Internship
+# Research Experience
+- *2025.03 - Present*, **Wild, Effienct, and Intelligence AI Lab, ELLIS Tuebingen & Max Planck Institue for Intelligence Systems**. Supervisor: Dr. Shiwei Liu
+- *2022.02 - 2024.06*, **Knowledge Science and Engineering Lab, Southeast University**. Supervisor: Prof. Dr. Guilin Qi
+
+
+# Industrial Internship
 - *2023.07 - 2024.06*, intern, **BSH Home Appliances Holding (China) Co., Ltd**, Nanjing, China
 
 
