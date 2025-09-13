@@ -34,7 +34,7 @@ I am open to research collaborations as well as internship or visiting opportuni
 
 
 # Research Experience
-- *2025.03 - Present*, **Wild, Effienct, and Intelligence AI Lab, ELLIS Tuebingen & Max Planck Institue for Intelligence Systems**. Supervisor: Dr. Shiwei Liu
+- *2025.03 - Present*, **WEI Lab, ELLIS Tuebingen & Max Planck Institue for Intelligence Systems**. Supervisor: Dr. Shiwei Liu
 - *2022.02 - 2024.06*, **Knowledge Science and Engineering Lab, Southeast University**. Supervisor: Prof. Dr. Guilin Qi
 
 
