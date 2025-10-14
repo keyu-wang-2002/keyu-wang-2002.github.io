@@ -19,8 +19,8 @@ Hi, I'm Keyu, a second-year master student in Machine Learning at [University of
 
 My current research focuses on <font color='FireBrick'><strong> efficient and scalable foundation models</strong></font>. Below are some areas I am particularly passionate about: 
 - <strong>Reasoning: </strong> Why do LLMs have reasoning capabilities? What are we missing behind scaling laws? How can we build models exceling at mathematical, symbolic, causal and physical reasoning?
-- <strong>Long-context & sequence modeling: </strong> How do Transformers make use of long context? How to model sequences effectively and efficiently? Is there a decent minimal attention pattern in sub-quadratic complexity?
 - <strong>Efficiency: </strong> How does changing a low-dimensional weights subspace allow a pre-trained model to adapt to downstream tasks? What are the bottlenecks of inference efficiency, and how to do more with less I/O?
+- <strong>Long-context & sequence modeling: </strong> How do Transformers make use of long context? How to model sequences effectively and efficiently? Is there a decent minimal attention pattern in sub-quadratic complexity?
 - <strong>Beyond SOTA in generative models: </strong> Do current benchmarks really capture how models behave, not just how they score and rank?
 
 During undergraduate research, I broadly investigated on  neuro-symbolic <strong>knowledge representation and reasoning</strong>, especially, handling of incomplete or inconsistent knowledge bases, and <strong>description logics</strong>. 
