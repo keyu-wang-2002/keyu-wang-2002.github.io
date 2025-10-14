@@ -23,7 +23,7 @@ My current research focus on <font color='FireBrick'><strong> efficient and scal
 - <strong>Efficiency: </strong> How does changing a low-dimensional weights subspace allow a pre-trained model to adapt to downstream tasks? What are the bottlenecks of inference efficiency, and how to do more with less I/O?
 - <strong>Beyond SOTA in generative models: </strong> Do current benchmarks really capture how models behave, not just how they score and rank?
 
-I am passionate about finding emerging questions in <font color='FireBrick'><strong>scaling pretraining, post-training, and test-time computing</strong></font> with compute, models, and data — spanning reasoning capability, expressiveness, efficiency, robustness, generalization, and trustworthness, etc — and on seeking elegant insights and solutions from both system and algorithmic perspectives. Particularly, I am keen on understanding how LLMs perform <font color='FireBrick'><strong>reasoning</strong></font> and eliciting its effectiveness and efficiency in complex reasoning scenarios. During undergraduate research, I broadly investigated on  neuro-symbolic <strong>knowledge representation and reasoning</strong>, especially, handling of incomplete or inconsistent knowledge bases, and <strong>description logics</strong>. 
+During undergraduate research, I broadly investigated on  neuro-symbolic <strong>knowledge representation and reasoning</strong>, especially, handling of incomplete or inconsistent knowledge bases, and <strong>description logics</strong>. 
 
 I am open to research collaborations as well as internship or visiting opportunities. Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
