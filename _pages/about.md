@@ -19,7 +19,7 @@ Hi, I'm Keyu, a second-year master student in Machine Learning at [University of
 
 My current research focuses on <font color='FireBrick'><strong> efficient and scalable foundation models</strong></font>. Below are some areas I am particularly passionate about: 
 - <strong>Reasoning: </strong> Why do LLMs have reasoning capabilities? What are we missing behind scaling laws? How do reasoning LLMs possess compositional generalization capabilities? How to capture uncertainty over intermediate reasoning states?
-- <strong>Efficiency: </strong> How to effectively and efficiently optimize deep models? How does changing a low-dimensional weights subspace allow a pre-trained model to adapt to downstream tasks? What are the bottlenecks of inference efficiency, and how to do more with less I/O?
+- <strong>Efficiency: </strong> How to effectively and efficiently optimize deep models? How does changing a low-dimensional weights' subspace allow a pre-trained model to adapt to downstream tasks? What limits inference efficiency, and how to do more with less I/O?
 - <strong>Long-context & sequence modeling: </strong> How do Transformers make use of long context? How to model sequences effectively and efficiently? How to get a decent minimal attention pattern in sub-quadratic complexity?
 - <strong>Beyond SOTA in generative models: </strong> Do current benchmarks really capture how models behave, not just how they score and rank?
 
