@@ -15,7 +15,7 @@ redirect_from:
 
 # Biography
 
-Hi, I'm Keyu, a second-year master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I’m working with [Dr. Jonas Geiping](https://jonasgeiping.github.io/) and [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io) on efficient LLMs. I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was fortunate to be advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN), and had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), contributing to its founding and flourishing.
+Hi, I'm Keyu, a second-year master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I’m working with  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io) and [Dr. Jonas Geiping](https://jonasgeiping.github.io/) on efficient LLMs. I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was fortunate to be advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN), and had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), contributing to its founding and flourishing.
 
 My current research focuses on <font color='FireBrick'><strong> efficient and scalable foundation models</strong></font>. Below are some areas I am particularly passionate about: 
 - <strong>Reasoning: </strong> Why do LLMs have reasoning capabilities? What are we missing behind scaling laws? How do reasoning LLMs possess compositional generalization capabilities? How to capture uncertainty over intermediate reasoning states?
@@ -40,7 +40,8 @@ I am open to research collaborations as well as internship or visiting opportuni
 
 
 # Research Experience
-- *2025.03 - Present*, **WEI Lab, ELLIS Tuebingen & Max Planck Institue for Intelligence Systems**. Supervisor: Dr. Shiwei Liu
+- *2025.10 - Present*, **SEAL Lab, Max Planck Institue for Intelligence Systems & ELLIS Tuebingen**. Supervisor: Dr. Jonas Geiping
+- *2025.03 - Present*, **WEI Lab, Max Planck Institue for Intelligence Systems & ELLIS Tuebingen**. Supervisor: Dr. Shiwei Liu
 - *2022.02 - 2024.06*, **Knowledge Science and Engineering Lab, Southeast University**. Supervisor: Prof. Dr. Guilin Qi
 
 <br>
