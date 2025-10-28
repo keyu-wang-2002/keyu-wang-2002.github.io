@@ -54,11 +54,11 @@ I am open to research collaborations as well as internship or visiting opportuni
 <br>
 
 # Selected Publications 
-Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (* Equal contribution)
+Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (\* Equal contribution)
 
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs </font>
-**Keyu Wang***, Tian Lyu*, Guinan Su, Jonas Geiping, Lu Yin, Marco Canini, Shiwei Liu \\
+**Keyu Wang**\*, Tian Lyu\*, Guinan Su, Jonas Geiping, Lu Yin, Marco Canini, Shiwei Liu \\
 **ArXiv**  [[PDF]]([https://arxiv.org/pdf/2510.22228])
 </div>
 
