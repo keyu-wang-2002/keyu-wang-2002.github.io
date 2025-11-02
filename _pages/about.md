@@ -17,7 +17,7 @@ redirect_from:
 
 Hi, I'm Keyu, a second-year master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I’m working with  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io) and [Dr. Jonas Geiping](https://jonasgeiping.github.io/) on efficient LLMs. I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was fortunate to be advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN), and had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), contributing to its founding and flourishing.
 
-My current research focuses on <font color='FireBrick'><strong> efficient and scalable foundation models</strong></font>. Below are some areas I am particularly passionate about: 
+My current research focuses on <font color='FireBrick'><strong> scalable and trustworthy foundation models</strong></font>. Below are some questions I am particularly passionate about: 
 - <strong>Reasoning: </strong> Why do LLMs have reasoning capabilities? What are we missing behind scaling laws?  How to capture uncertainty over intermediate reasoning states? What limits inference efficiency, and how to do more with less I/O?
 - <strong>Optimization: </strong> How to effectively and efficiently optimize deep models? How does changing a low-dimensional weights' subspace allow a pre-trained model to adapt to downstream tasks? 
 - <strong>Beyond SOTA in generative models: </strong> Do current benchmarks really capture how models behave, not just how they score and rank?
