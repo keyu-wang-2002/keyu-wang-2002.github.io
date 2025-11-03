@@ -71,7 +71,7 @@ Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_w
 
 # Misc
 - My Chinese name is 汪可予. I come from Tongling, Anhui — a small city by the Yangtze River.
-- I like all kinds of sports, such as table tennis, basketball, football, tennis, badminton, marathons, swimming, jogging, hiking and climbing.  I also occasionally bowl and play billiards with my friends. Currently, I go to gym three times a week. My goal for ~~2025~~2026 is to meet the physical fitness standards of military personnel from various countries.
+- I like all kinds of sports, such as table tennis, basketball, football, tennis, badminton, marathons, swimming, jogging, hiking and climbing.  I also occasionally bowl and play billiards with my friends. Currently, I go to gym three times a week. 
 - I enjoy animations. I am a big fan of various chess, board and card games. My favorite games are Texas Hold'em Poker, "Jun Qi" (Chinese Military Chess), PVZ and Civilization VI. 
 
 <div style="height: 75px;"></div>
