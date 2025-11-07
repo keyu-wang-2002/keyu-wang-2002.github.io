@@ -19,7 +19,7 @@ Hi, I'm Keyu, a second-year master student in Machine Learning at [University of
 
 My current research focuses on <font color='FireBrick'><strong> scalable and trustworthy foundation models</strong></font>. Below are questions I am particularly passionate about: 
 - <strong>Reasoning: </strong> Why do LLMs have reasoning capabilities? What are we missing behind scaling laws?  How to capture uncertainty over intermediate reasoning states? What limits inference efficiency, and how to do more with less I/O without sacrifacing reliability?
-- <strong>Optimization: </strong> How to effectively and efficiently optimize deep models? How does changing a low-dimensional weights' subspace allow a pre-trained model to adapt to downstream tasks? 
+- <strong>Optimization: </strong> How to effectively and efficiently optimize deep models? How does changing a low-dimensional weights' subspace allow a pre-trained model to adapt to downstream tasks without losing safety behavior? 
 - <strong>Benchmarking: </strong> Do current task performance really capture how models behave, not just how they score and rank?
 
 During undergraduate research, I broadly investigated on  neuro-symbolic <strong>knowledge representation and reasoning</strong>, especially, handling of incomplete or inconsistent knowledge bases, and <strong>description logics</strong>. <!--Recently, I’ve begun to examine the systematic limitations of existing end-to-end VLA approaches and to revisit the problem from the perspective of knowledge representation and reasoning—namely, how to enable machines to understand concepts of the physical world so that natural language can be mapped to high-dimensional continuous control via key bridges such as task logic, physical constraints, and spatial geometry. -->
