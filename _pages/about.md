@@ -24,7 +24,7 @@ My current research focuses on <font color='FireBrick'><strong> scalable and tru
 
 During undergraduate research, I broadly investigated on  neuro-symbolic <strong>knowledge representation and reasoning</strong>, especially, handling of incomplete or inconsistent knowledge bases, and <strong>description logics</strong>. <!--Recently, I’ve begun to examine the systematic limitations of existing end-to-end VLA approaches and to revisit the problem from the perspective of knowledge representation and reasoning—namely, how to enable machines to understand concepts of the physical world so that natural language can be mapped to high-dimensional continuous control via key bridges such as task logic, physical constraints, and spatial geometry. -->
 
-I am open to research collaborations as well as internship or visiting opportunities. Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
+~~I am open to research collaborations as well as internship or visiting opportunities.~~ (uhhh, a little busy these few months...maybe until 03.2026? But I'd like to have any chats if you are interested!)  Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
 <br>
 
