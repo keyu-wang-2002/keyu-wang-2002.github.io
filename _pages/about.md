@@ -19,12 +19,12 @@ Hi, I'm Keyu, a second-year master student in Machine Learning at [University of
 
 My current research focuses on <font color='FireBrick'><strong> scalable and efficient foundation models</strong></font>. Below are questions I am particularly passionate about: 
 - <strong>Reasoning with Accessibility: </strong> Why do LLMs have reasoning capabilities?  How to calibrate uncertainty over intermediate reasoning states? What limits inference efficiency, and how to do more with less I/O without sacrifacing reliability?
-- <strong>Optimization at Scale: </strong> How to effectively and efficiently optimize deep models? How does learning in a low-dimensional weights' subspace allow a pre-trained model to adapt to downstream tasks, and will this make the model lose trustworthiness behaviours? 
-- <strong>Benchmarking in Principles: </strong> Do current task performance really capture how models behave, not just how they score and rank?
+- <strong>Optimization at Scale: </strong> How to stably optimize deep models in low-bits? How does learning in a low-dimensional weights' subspace allow a pre-trained model to adapt to downstream tasks, and will this make the model lose trustworthiness behaviours? 
+- <strong>Benchmarking in Principles: </strong> Do current task performance really capture how models behave, not just how they score and rank? How can we validate the trustworthiness of intermediate reasoning steps, rather than just exact match and pass@k?
 
 During undergraduate research, I broadly investigated on  neuro-symbolic <strong>knowledge representation and reasoning</strong>, especially, handling of incomplete or inconsistent knowledge bases, and <strong>description logics</strong>. <!--Recently, I’ve begun to examine the systematic limitations of existing end-to-end VLA approaches and to revisit the problem from the perspective of knowledge representation and reasoning—namely, how to enable machines to understand concepts of the physical world so that natural language can be mapped to high-dimensional continuous control via key bridges such as task logic, physical constraints, and spatial geometry. -->
 
-~~I am open to research collaborations as well as internship or visiting opportunities.~~ (uhhh, a little busy these few months...maybe until 03.2026? But I'd like to have any chats if you are interested!)  Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
+I am seeking PhD oppotunities in 27 Fall & Spring! Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
 <br>
 
