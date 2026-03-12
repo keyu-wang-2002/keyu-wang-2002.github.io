@@ -50,9 +50,8 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 # Publications & Preprints
 Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (\* Equal contribution)
 
-<br>
 
-#### <font color='LightBlue'>Model Scalability</font>
+#### <font color='DeepSkyBlue'>Model Scalability</font>
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs </font>
 **Keyu Wang**\*, Tian Lyu\*, Guinan Su, Jonas Geiping, Lu Yin, Marco Canini, Shiwei Liu \\
@@ -65,18 +64,16 @@ Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
 **ICASSP 2026**  [[PDF]](https://arxiv.org/pdf/2510.22228)
 </div>
 
-<br>
 
-#### <font color='LightBlue'>Training Scalability</font>
+#### <font color='DeepSkyBlue'>Training Scalability</font>
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
 Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 **ICLR 2026 DeLTa Workshop Poster** 
 </div>
 
-<br>
 
-#### <font color='LightBlue'>Reasoning/Inference Scalability</font>
+#### <font color='DeepSkyBlue'>Reasoning/Inference Scalability</font>
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study </font>
 **Keyu Wang**, Guilin Qi, Jiaqi Li and Songlin Zhai \\
@@ -86,7 +83,7 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> An Embedding-based Approach to Inconsistency-tolerant Reasoning with Inconsistent Ontologies </font>
 **Keyu Wang**, Site Li, Jiaye Li, Guilin Qi, and Qiu Ji \\
-**International Joint Conference on Knowledge Graphs**  [[PDF]](https://arxiv.org/pdf/2304.01664v3))
+**International Joint Conference on Knowledge Graphs**  [[PDF]](https://arxiv.org/pdf/2304.01664v3)
 </div>
 
 <br>
