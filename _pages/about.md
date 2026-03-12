@@ -15,9 +15,9 @@ redirect_from:
 
 # Biography
 
-Hi, I'm Keyu, a second-year master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I’m a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), working closely with  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io) and [Dr. Jonas Geiping](https://jonasgeiping.github.io/) on efficient LLMs. I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was fortunate to be advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN), and had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), contributing to its founding and flourishing.
+Hi, I'm Keyu, a second-year master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I’m a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), working closely with  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io) and [Dr. Jonas Geiping](https://jonasgeiping.github.io/). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was fortunate to be advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN), and had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), contributing to its founding and flourishing.
 
-My current research centers on <font color='FireBrick'><strong> scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectural design, reasoning capabilities, and training efficiency.
+I am passionate about making AI scalable. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectural design, reasoning capabilities, training and data efficiency, and system reliability.
 
 Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
