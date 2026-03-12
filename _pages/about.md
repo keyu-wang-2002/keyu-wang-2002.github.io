@@ -52,7 +52,7 @@ Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_w
 
 <br>
 
-#### Model Scalability
+#### <font color='LightBlue'>Model Scalability</font>
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs </font>
 **Keyu Wang**\*, Tian Lyu\*, Guinan Su, Jonas Geiping, Lu Yin, Marco Canini, Shiwei Liu \\
@@ -67,7 +67,7 @@ Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
 
 <br>
 
-#### Training Scalability
+#### <font color='LightBlue'>Training Scalability</font>
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
 Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
@@ -76,7 +76,7 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 
 <br>
 
-#### Reasoning/Inference Scalability
+#### <font color='LightBlue'>Reasoning/Inference Scalability</font>
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study </font>
 **Keyu Wang**, Guilin Qi, Jiaqi Li and Songlin Zhai \\
