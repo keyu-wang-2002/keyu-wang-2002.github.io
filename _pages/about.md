@@ -64,6 +64,7 @@ Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
 **ICASSP 2026**  [[PDF]](https://arxiv.org/pdf/2510.22228)
 </div>
 
+<div style="margin-top: 20px;"></div> 
 
 #### II. Training Scalability
 <div class='paper-box-text' markdown="1">
@@ -72,6 +73,7 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 **ICLR 2026 DeLTa Workshop Poster** 
 </div>
 
+<div style="margin-top: 20px;"></div> 
 
 #### III. Reasoning/Inference Scalability
 <div class='paper-box-text' markdown="1">
@@ -83,7 +85,7 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> An Embedding-based Approach to Inconsistency-tolerant Reasoning with Inconsistent Ontologies </font>
 **Keyu Wang**, Site Li, Jiaye Li, Guilin Qi, and Qiu Ji \\
-**International Joint Conference on Knowledge Graphs**  [[PDF]](https://arxiv.org/pdf/2304.01664v3)
+**IJCKG 2023**  [[PDF]](https://arxiv.org/pdf/2304.01664v3)
 </div>
 
 <br>
