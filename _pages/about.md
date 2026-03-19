@@ -19,7 +19,7 @@ Hi, I'm Keyu, a second-year master student in Machine Learning at [University of
 
 I am passionate about making AI scalable. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectural design, reasoning capabilities, training and data efficiency, and system reliability.
 
-Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
+You can find my CV [here]([https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/CV_Keyu_Application_2026_March.pdf]). Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
 <br>
 
