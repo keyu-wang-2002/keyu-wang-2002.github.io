@@ -65,9 +65,6 @@ Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
 **ICASSP 2026**  [[PDF]](https://arxiv.org/pdf/2510.22228)
 </div>
 
-<div style="margin-top: 30px;"></div> 
-
-#### II. Training Scalability
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
 Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
