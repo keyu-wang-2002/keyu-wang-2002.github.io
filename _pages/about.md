@@ -65,6 +65,9 @@ Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
 **ICASSP 2026**  [[PDF]](https://arxiv.org/pdf/2510.22228)
 </div>
 
+<div style="margin-top: 30px;"></div> 
+
+#### II. Optimisation Scalability
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
 Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
@@ -78,12 +81,6 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 <font color='FireBrick'> Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study </font>
 **Keyu Wang**, Guilin Qi, Jiaqi Li and Songlin Zhai \\
 **EMNLP 2024 Findings**  [[PDF]](https://aclanthology.org/2024.findings-emnlp.141.pdf)
-</div>
-
-<div class='paper-box-text' markdown="1">
-<font color='FireBrick'> An Embedding-based Approach to Inconsistency-tolerant Reasoning with Inconsistent Ontologies </font>
-**Keyu Wang**, Site Li, Jiaye Li, Guilin Qi, and Qiu Ji \\
-**IJCKG 2023**  [[PDF]](https://arxiv.org/pdf/2304.01664v3)
 </div>
 
 <br>
