@@ -43,7 +43,6 @@ You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-
 
 # Employment
 - *2025.12 - Present*, Research Assistant, **Max Planck Institute for Intelligent Systems**, Tuebingen, Germany
-- *2023.07 - 2024.06*, intern, **BSH Home Appliances Holding (China) Co., Ltd**, Nanjing, China
 
 
 <br>
