@@ -66,7 +66,7 @@ Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
 
 <div style="margin-top: 30px;"></div> 
 
-#### II. Optimisation Scalability
+#### II. Training/Data Scalability
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
 Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
