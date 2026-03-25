@@ -32,6 +32,11 @@ You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-
 
 <br>
 
+# Employment
+- *2025.12 - Present*, Research Assistant, **Max Planck Institute for Intelligent Systems**, Tuebingen, Germany
+- *2023.07 - 2024.06*, Intern, **BSH China**, Nanjing, China
+
+<br>
 
 # Research Experience
 - *2025.10 - Present*, **SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen**. Supervisor: Dr. Jonas Geiping
@@ -41,11 +46,7 @@ You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-
 <br>
 
 
-# Employment
-- *2025.12 - Present*, Research Assistant, **Max Planck Institute for Intelligent Systems**, Tuebingen, Germany
-- *2023.07 - 2024.06*, Intern, **BSH China**, Nanjing, China
 
-<br>
 
 # Publications & Preprints
 Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (\* Equal contribution)
