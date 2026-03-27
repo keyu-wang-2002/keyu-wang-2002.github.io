@@ -71,7 +71,7 @@ Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
 Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
-**ICLR 2026 DeLTa Workshop Poster** 
+**ICLR 2026 DeLTa Workshop Poster** [[PDF]](https://openreview.net/attachment?id=Aj3ZWgxYwt&name=pdf)
 </div>
 
 <div style="margin-top: 30px;"></div> 
