@@ -62,7 +62,7 @@ Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_w
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> Demystifying the Roles of LLM Layers in Retrieval, Knowledge, and Reasoning </font>
 Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
-**ICASSP 2026**  [[PDF]](https://arxiv.org/pdf/2510.22228)
+**ICASSP 2026; Tech. Report**  [[PDF]](https://arxiv.org/pdf/2510.22228)
 </div>
 
 <div style="margin-top: 30px;"></div> 
