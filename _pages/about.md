@@ -39,7 +39,7 @@ You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-
 <br>
 
 # Research Experience
-- *2025.10 - Present*, **SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen**. Supervisor: Dr. Jonas Geiping
+- *2025.10 - Present*, **SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen**. Supervisor: Dr. Jonas Geiping (with Dr. Shiwei Liu)
 - *2025.03 - Present*, **WEI Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen**. Supervisor: Dr. Shiwei Liu
 - *2022.02 - 2024.06*, **Knowledge Science and Engineering Lab, Southeast University**. Supervisor: Prof. Dr. Guilin Qi
 
