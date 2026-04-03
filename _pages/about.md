@@ -17,7 +17,7 @@ redirect_from:
 
 Hi, I'm Keyu, a master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I am also a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), working with  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io) and [Dr. Jonas Geiping](https://jonasgeiping.github.io/). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN), and had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), contributing to its founding and flourishing.
 
-I am passionate about intuitive observations from the real world and seeking out their behind principles. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectural design, reasoning capabilities, training and data efficiency, and systems.
+I am passionate about intuitions from observing the real world and seeking out their behind principles. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectural design, reasoning capabilities, training and data efficiency, and systems.
 
 You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/CV_Keyu_2026_April.pdf). Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
