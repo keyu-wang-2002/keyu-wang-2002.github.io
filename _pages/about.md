@@ -19,7 +19,7 @@ Hi, I'm Keyu, a master student in Machine Learning at [University of Tuebingen](
 
 I am passionate about intuitions from observing the real world and seeking out their behind principles. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectural design, training and data efficiency, reasoning capabilities, and systems.
 
-You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/CV_Keyu_2026_April.pdf). Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
+You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/CV_Keyu_26_April.pdf). Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
 <br>
 
