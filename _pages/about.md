@@ -17,7 +17,7 @@ redirect_from:
 
 Hi, I'm Keyu, a master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I am also a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), working with  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io) and [Dr. Jonas Geiping](https://jonasgeiping.github.io/). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN), and had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), contributing to its founding and flourishing.
 
-I am passionate about intuitions from observing the real world and seeking out their behind principles. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectural design, reasoning capabilities, training and data efficiency, and systems.
+I am passionate about intuitions from observing the real world and seeking out their behind principles. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectural design, training and data efficiency, reasoning capabilities, and systems.
 
 You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/CV_Keyu_2026_April.pdf). Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
@@ -52,7 +52,13 @@ You can find my CV [here](https://raw.githubusercontent.com/keyu-wang-2002/keyu-
 Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (\* Equal contribution)
 
 
-#### I. Model Scalability
+#### I. Learning Scalability: Model, Optimization, Data
+<div class='paper-box-text' markdown="1">
+<font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
+Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
+**ICLR 2026 DeLTa Workshop Poster** [[PDF]](https://openreview.net/attachment?id=Aj3ZWgxYwt&name=pdf)
+</div>
+
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs </font>
 **Keyu Wang**\*, Tian Lyu\*, Guinan Su, Jonas Geiping, Lu Yin, Marco Canini, Shiwei Liu \\
@@ -67,16 +73,7 @@ Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
 
 <div style="margin-top: 30px;"></div> 
 
-#### II. Training/Data Scalability
-<div class='paper-box-text' markdown="1">
-<font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
-Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
-**ICLR 2026 DeLTa Workshop Poster** [[PDF]](https://openreview.net/attachment?id=Aj3ZWgxYwt&name=pdf)
-</div>
-
-<div style="margin-top: 30px;"></div> 
-
-#### III. Reasoning/Inference Scalability
+#### III. Inference Scalability: Reasoning, Inference
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study </font>
 **Keyu Wang**, Guilin Qi, Jiaqi Li and Songlin Zhai \\
