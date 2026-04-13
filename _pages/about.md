@@ -83,7 +83,7 @@ Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
 <br>
 
 # Academic Services
-- **Reviewer**: CPAL 2026
+- **Reviewer**: COLM 2026, CPAL 2026
 
 <br>
 
