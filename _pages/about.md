@@ -73,7 +73,7 @@ Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
 
 <div style="margin-top: 30px;"></div> 
 
-#### II. Inference Scalability: Reasoning, Inference
+#### II. Reasoning Scalability:  Deployment, Inference, Reasoning
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study </font>
 **Keyu Wang**, Guilin Qi, Jiaqi Li and Songlin Zhai \\
