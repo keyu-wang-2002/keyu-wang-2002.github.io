@@ -65,15 +65,10 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 **ArXiv 2025**  [[PDF]](https://arxiv.org/pdf/2510.22228)
 </div>
 
-<div class='paper-box-text' markdown="1">
-<font color='FireBrick'> Demystifying the Roles of LLM Layers in Retrieval, Knowledge, and Reasoning </font>
-Xinyuan Song, **Keyu Wang**, Pengxiang Li, Lu Yin and Shiwei Liu \\
-**ICASSP 2026; Technical Report**  [[PDF]](https://arxiv.org/pdf/2510.22228)
-</div>
 
 <div style="margin-top: 30px;"></div> 
 
-#### II. Reasoning Scalability:  Deployment, Inference, Reasoning
+#### II. Inference Scalability:  Deployment, Inference, Reasoning
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study </font>
 **Keyu Wang**, Guilin Qi, Jiaqi Li and Songlin Zhai \\
