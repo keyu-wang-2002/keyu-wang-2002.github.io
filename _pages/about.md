@@ -59,16 +59,16 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 **ICLR 2026 DeLTa Workshop Poster** [[PDF]](https://openreview.net/attachment?id=Aj3ZWgxYwt&name=pdf)
 </div>
 
+
+<div style="margin-top: 30px;"></div> 
+
+#### II. Inference Scalability:  Deployment, Inference, Reasoning
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs </font>
 **Keyu Wang**\*, Tian Lyu\*, Guinan Su, Jonas Geiping, Lu Yin, Marco Canini, Shiwei Liu \\
 **ArXiv 2025**  [[PDF]](https://arxiv.org/pdf/2510.22228)
 </div>
 
-
-<div style="margin-top: 30px;"></div> 
-
-#### II. Inference Scalability:  Deployment, Inference, Reasoning
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study </font>
 **Keyu Wang**, Guilin Qi, Jiaqi Li and Songlin Zhai \\
