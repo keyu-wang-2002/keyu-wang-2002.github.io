@@ -39,8 +39,12 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 <br>
 
 # Research Experience
+- *2025.03 - Present*, **SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen**. Advisor: Dr. Jonas Geiping
+                       Research topic: inference optimization, kv cache compression, reasoning
 - *2025.03 - Present*, **WEI Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen**. Advisor: Dr. Shiwei Liu
+                       Research topic: model architectures, pre-training, model compression
 - *2022.02 - 2024.06*, **Knowledge Science and Engineering Lab, Southeast University**. Advisor: Prof. Dr. Guilin Qi
+                       Research topic: neuro-symbolic knowledge representation and reasoning, description logics
 
 <br>
 
