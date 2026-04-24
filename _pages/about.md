@@ -46,7 +46,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
     <strong>SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
     Advisor: Dr. Jonas Geiping<br>
     <span style="display:inline-block; width:150px;"></span>
-    Research topic: inference optimization, kv cache compression, reasoning
+    Research topic: inference optimization, kv cache compression, reasoning models
   </li>
 
   <li>
