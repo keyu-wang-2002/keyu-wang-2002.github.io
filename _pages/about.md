@@ -54,7 +54,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
     <strong>WEI Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
     Advisor: Dr. Shiwei Liu<br>
     <span style="display:inline-block; width:150px;"></span>
-    Research topic: model architectures, pre-training, model compression
+    Research topic: model architectures & pre-training, model compression
   </li>
 
   <li>
