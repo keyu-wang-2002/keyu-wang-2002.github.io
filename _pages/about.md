@@ -15,9 +15,9 @@ redirect_from:
 
 # Biography
 
-Hi, I'm Keyu, a master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I am also a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), working with  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io) and [Dr. Jonas Geiping](https://jonasgeiping.github.io/). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN), and had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), contributing to its founding and flourishing.
+Hi, I'm Keyu, a master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I am a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), advised by  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io), and also have the privilege of working with [Dr. Jonas Geiping](https://jonasgeiping.github.io/) and [Dr. Weiyang Liu](https://wyliu.com). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN), and had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), contributing to its founding and flourishing.
 
-I am passionate about intuitions from observing and seeking out their behind principles. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectural design, training and data efficiency, reasoning capabilities, and systems.
+I am passionate about intuitions from observations and seeking out their behind principles. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectural design, training and data efficiency, reasoning capabilities, and systems.
 
 Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
@@ -39,7 +39,6 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 <br>
 
 # Research Experience
-- *2025.10 - Present*, **SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen**. Advisor: Dr. Jonas Geiping
 - *2025.03 - Present*, **WEI Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen**. Advisor: Dr. Shiwei Liu
 - *2022.02 - 2024.06*, **Knowledge Science and Engineering Lab, Southeast University**. Advisor: Prof. Dr. Guilin Qi
 
