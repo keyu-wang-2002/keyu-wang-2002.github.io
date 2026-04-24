@@ -39,12 +39,32 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 <br>
 
 # Research Experience
-- *2025.11 - Present*, **SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen**. Advisor: Dr. Jonas Geiping<br>
-                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research topic: inference optimization, kv cache compression, reasoning
-- *2025.03 - Present*, **WEI Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen**. Advisor: Dr. Shiwei Liu<br>
-                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research topic: model architectures, pre-training, model compression
-- *2022.02 - 2024.06*, **Knowledge Science and Engineering Lab, Southeast University**. Advisor: Prof. Dr. Guilin Qi<br>
-                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research topic: neuro-symbolic knowledge representation and reasoning, description logics
+
+<ul>
+  <li>
+    <span style="display:inline-block; width:150px;"><em>2025.11 - Present</em></span>
+    <strong>SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
+    Advisor: Dr. Jonas Geiping<br>
+    <span style="display:inline-block; width:150px;"></span>
+    Research topic: inference optimization, kv cache compression, reasoning
+  </li>
+
+  <li>
+    <span style="display:inline-block; width:150px;"><em>2025.03 - Present</em></span>
+    <strong>WEI Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
+    Advisor: Dr. Shiwei Liu<br>
+    <span style="display:inline-block; width:150px;"></span>
+    Research topic: model architectures, pre-training, model compression
+  </li>
+
+  <li>
+    <span style="display:inline-block; width:150px;"><em>2022.02 - 2024.06</em></span>
+    <strong>Knowledge Science and Engineering Lab, Southeast University</strong>.
+    Advisor: Prof. Dr. Guilin Qi<br>
+    <span style="display:inline-block; width:150px;"></span>
+    Research topic: neuro-symbolic knowledge representation and reasoning, description logics
+  </li>
+</ul>
 
 <br>
 
