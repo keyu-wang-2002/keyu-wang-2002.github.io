@@ -62,7 +62,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
     <strong>Knowledge Science and Engineering Lab, Southeast University</strong>.
     Advisor: Prof. Dr. Guilin Qi<br>
     <span style="display:inline-block; width:150px;"></span>
-    Focus: neuro-symbolic AI, knowledge representation and reasoning, description logics, taxonomy / ontology
+    Focus: neuro-symbolic AI, knowledge representation and reasoning, description logics, taxonomy & ontology
   </li>
 </ul>
 
