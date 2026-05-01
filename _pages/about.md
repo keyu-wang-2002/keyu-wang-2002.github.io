@@ -79,7 +79,7 @@ Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_w
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
 Di He\*, Songjun Tu\*, **Keyu Wang**, Lu Yin and Shiwei Liu \\
-**ICML 2026; ICLR 2026 DeLTa Workshop Poster** [[PDF]](https://openreview.net/attachment?id=Aj3ZWgxYwt&name=pdf)
+**ICML 2026 [[PDF]](https://openreview.net/attachment?id=Aj3ZWgxYwt&name=pdf)
 </div>
 
 
