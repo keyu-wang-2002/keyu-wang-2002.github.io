@@ -17,7 +17,7 @@ redirect_from:
 
 Hi, I'm Keyu, a master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I am a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), advised by  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io), and also have the privilege of working with [Dr. Jonas Geiping](https://jonasgeiping.github.io/) and [Dr. Weiyang Liu](https://wyliu.com). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN), and had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), contributing to its founding and flourishing.
 
-I am passionate about the intuitions from empirical observations and about uncovering the principles behind them, especially how intelligent systems <font color='FireBrick'><strong>learn</strong></font>. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectures, optimizers, training and data efficiency, reasoning capabilities, and theory.
+I am passionate about the intuitions from empirical observations and about uncovering the principles behind them, especially <font color='FireBrick'><strong>learn dynamics</strong></font> of intelligence, on what data, at what scale, and how early choices set the ceiling on reasoning, generalization and continual learning. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding and enhancing their architectures, optimizers, training and data efficiency, reasoning capabilities, and theory.
 
 Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
@@ -41,13 +41,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 # Research Experience
 
 <ul>
-  <li>
-    <span style="display:inline-block; width:150px;"><em>2025.11 - Present</em></span>
-    <strong>SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
-    Advisor: Dr. Jonas Geiping<br>
-    <span style="display:inline-block; width:150px;"></span>
-    Focus: inference optimization, kv cache compression, reasoning models
-  </li>
+
 
   <li>
     <span style="display:inline-block; width:150px;"><em>2025.03 - Present</em></span>
@@ -57,6 +51,16 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
     Focus: model architectures & pre-training, model compression
   </li>
 
+
+  <li>
+    <span style="display:inline-block; width:150px;"><em>2025.11 - 2026.05</em></span>
+    <strong>SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
+    Advisor: Dr. Jonas Geiping<br>
+    <span style="display:inline-block; width:150px;"></span>
+    Focus: inference optimization, kv cache compression, reasoning models
+  </li>
+
+  
   <li>
     <span style="display:inline-block; width:150px;"><em>2022.02 - 2024.06</em></span>
     <strong>Knowledge Science and Engineering Lab, Southeast University</strong>.
