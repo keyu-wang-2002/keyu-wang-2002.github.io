@@ -48,7 +48,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
     <strong>WEI Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
     Advisor: Dr. Shiwei Liu<br>
     <span style="display:inline-block; width:150px;"></span>
-    <strong>Master's Intern and Research Assistant</strong>: model architectures & pre-training, model compression
+    <strong>Master's Intern and Research Assistant</strong>: foundation model architectures & pre-training, model compression
   </li>
 
 
@@ -57,7 +57,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
     <strong>SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
     Advisor: Dr. Jonas Geiping<br>
     <span style="display:inline-block; width:150px;"></span>
-    <strong>Master's Student</strong>: KV cache compression, reasoning
+    <strong>Master's Student</strong>: inference optimization, reasoning
   </li>
 
   
