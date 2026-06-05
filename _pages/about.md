@@ -96,6 +96,12 @@ Di He\*, Songjun Tu\*, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 **ArXiv 2025**  [[PDF]](https://arxiv.org/pdf/2510.22228)
 </div>
 
+<div class='paper-box-text' markdown="1">
+<font color='FireBrick'> Demystifying the Roles of LLM Layers in Retrieval, Knowledge, and Reasoning </font>
+**KXinyuan Song, Keyu Wang, PengXiang Li, Lu Yin, Shiwei Liu \\
+**Technical Report 2025**  [[PDF]](https://arxiv.org/pdf/2510.02091)
+</div>
+
 <br>
 
 # Academic Services
