@@ -48,7 +48,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
     <strong>WEI Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
     Advisor: Dr. Shiwei Liu<br>
     <span style="display:inline-block; width:150px;"></span>
-    Focus: model architectures & pre-training, model compression
+    <strong>Master's Intern and Research Assistant</strong>: model architectures & pre-training, model compression
   </li>
 
 
@@ -57,7 +57,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
     <strong>SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
     Advisor: Dr. Jonas Geiping<br>
     <span style="display:inline-block; width:150px;"></span>
-    Focus: KV cache compression, reasoning
+    <strong>Master's Student</strong>: KV cache compression, reasoning
   </li>
 
   
@@ -66,7 +66,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
     <strong>COIN Lab, Southeast University</strong>.
     Advisor: Prof. Dr. Guilin Qi<br>
     <span style="display:inline-block; width:150px;"></span>
-    Focus: neuro-symbolic knowledge representation and reasoning, description logic ontology
+    <strong>Undergraduate Student</strong>: neuro-symbolic knowledge representation and reasoning, description logic ontology
   </li>
 </ul>
 
@@ -79,7 +79,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (\* Equal contribution)
 
 
-#### I. Learning: Model, Parameters, Data, Optimization, Infra
+#### I. Learning: Data, Model & Parameters, Optimization, Infra
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
 Di He\*, Songjun Tu\*, **Keyu Wang**, Lu Yin and Shiwei Liu \\
