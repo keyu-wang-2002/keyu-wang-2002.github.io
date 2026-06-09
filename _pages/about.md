@@ -79,7 +79,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (\* Equal contribution)
 
 
-#### I. Learning: Data, Model & Parameters, Optimization, Infra
+#### I. Learning: Model & Optimization, Data, Infra
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
 Di He\*, Songjun Tu\*, **Keyu Wang**, Lu Yin and Shiwei Liu \\
@@ -89,7 +89,7 @@ Di He\*, Songjun Tu\*, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 
 <div style="margin-top: 30px;"></div> 
 
-#### II. Inference:  Deployment, Inference, Reasoning, Evaluation
+#### II. Inference:  Deployment, Inference & Reasoning, Evaluation
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs </font>
 **Keyu Wang**\*, Tian Lyu\*, Guinan Su, Jonas Geiping, Lu Yin, Marco Canini, Shiwei Liu \\
