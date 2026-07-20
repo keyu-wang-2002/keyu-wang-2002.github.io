@@ -34,7 +34,6 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 
 # Working Experience
 - *2025.12 - Present*, Research Assistant, **Max Planck Institute for Intelligent Systems**, Tuebingen, Germany
-- *2023.07 - 2024.06*, Intern, **BSH Bosch & Siemens Home Appliances Group**, Nanjing, China
 
 <br>
 
