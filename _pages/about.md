@@ -82,7 +82,7 @@ Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_w
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
 Di He\*, Songjun Tu\*, **Keyu Wang**, Lu Yin and Shiwei Liu \\
-**ICML 2026** [[PDF]]([https://arxiv.org/pdf/2605.22297])
+**ICML 2026** [[PDF]](https://arxiv.org/pdf/2605.22297)
 </div>
 
 
@@ -92,7 +92,7 @@ Di He\*, Songjun Tu\*, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs </font>
 **Keyu Wang**\*, Tian Lyu\*, Guinan Su,  Lu Yin, Marco Canini, Jonas Geiping, Shiwei Liu \\
-**COLM 2026**  [[PDF]](https://arxiv.org/pdf/2510.22228)
+**COLM 2026**  [[PDF]](https://arxiv.org/pdf/2510.22228v2)
 </div>
 
 <br>
