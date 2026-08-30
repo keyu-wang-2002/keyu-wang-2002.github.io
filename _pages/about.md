@@ -82,7 +82,7 @@ Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_w
 #### I. Learning: Training Dynamics, Data, and Optimization
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
-Di He\*, Songjun Tu\*, **Keyu Wang**, Lu Yin and Shiwei Liu \\
+Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 **ICML 2026** [[PDF]](https://arxiv.org/pdf/2605.22297)
 </div>
 
