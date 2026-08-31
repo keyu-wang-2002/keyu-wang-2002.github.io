@@ -19,7 +19,7 @@ Hi, I'm Keyu, a master student in Machine Learning at [University of Tuebingen](
 
 I am passionate about the empirical wonders from <font color='FireBrick'><strong>how intelligence learns</strong></font> -- on what data, at what scale, stepping by what rule, and how early choices set the ceiling on foundamental capabilities like generalization and lifelong learning. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding their data, architectures and optimisation, and their effect on <font color='FireBrick'><strong>training dynamics</strong></font>.
 
-I am seeking PhD opportunities in 27 fall/winter and internship during 27 spring.  Here are my [CV](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/keyu_research_cv_augest.pdf) and [research-slides](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/keyu_research_slides_open_august.pdf) (last updated on 30. Aug).  Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
+I am seeking PhD opportunities in 27 fall/winter and internship during 27 spring.  Here are my [CV](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/keyu_research_cv_august.pdf) and [research-slides](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/keyu_research_slides_open_august.pdf) (last updated on 30. Aug).  Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
 <br>
 
