@@ -32,7 +32,7 @@ I am seeking PhD opportunities in 27 fall/winter and internship during 26 winter
 
 <br>
 
-# Employment
+# Working Experience
 - *2025.12 - Present*, Research Assistant, **Max Planck Institute for Intelligent Systems**, Tuebingen, Germany
 - *2023.07 - 2024.06*, Intern, **BSH -- Bosch-Siemens Home Appliance Group**, Nanjing, China
 
@@ -48,7 +48,7 @@ I am seeking PhD opportunities in 27 fall/winter and internship during 26 winter
     <strong>WEI Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
     Advisor: Dr. Shiwei Liu<br>
     <span style="display:inline-block; width:150px;"></span>
-    <strong>Master's Intern</strong>: foundation model architectures & pre-training, model compression
+    <strong>Master's Intern</strong>: pre-training & model architectures, model compression
   </li>
 
 
@@ -99,7 +99,8 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 <br>
 
 # Academic Services
-- **Reviewer**: COLM 2026, CPAL 2026
+- **Conference Reviewer**: COLM 2026, CPAL 2026
+- **Workshop Reviewer**: On-device Intelligence @ NeurIPS 2026
 
 <br>
 
