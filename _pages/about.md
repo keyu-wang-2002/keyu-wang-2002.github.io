@@ -48,16 +48,7 @@ I am seeking PhD opportunities in 27 fall/winter and internship during 26 winter
     <strong>WEI Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
     Advisor: Dr. Shiwei Liu<br>
     <span style="display:inline-block; width:150px;"></span>
-    <strong>Master's Intern</strong>: pre-training & model architectures, model compression
-  </li>
-
-
-  <li>
-    <span style="display:inline-block; width:150px;"><em>2025.11 - 2026.05</em></span>
-    <strong>SEAL Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
-    Advisor: Dr. Jonas Geiping<br>
-    <span style="display:inline-block; width:150px;"></span>
-    <strong>Master's Student</strong>: inference optimization, reasoning
+    <strong>Master's Intern</strong>: pre-training & model architectures, model compression, inference optimization
   </li>
 
   
