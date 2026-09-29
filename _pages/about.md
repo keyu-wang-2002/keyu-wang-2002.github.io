@@ -75,7 +75,7 @@ Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_w
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> DepthBench: Measuring How Residual Connections Enable More Computational Depth </font>
 **Keyu Wang**\*, Yangyi Huang\*, Jiale Kang, David González-Martínez, Weiyang Liu and Shiwei Liu \\
-**arXiv 2026** [[PDF]](https://arxiv.org/abs/2609.32534)
+**arXiv 2026** [[PDF]](https://arxiv.org/pdf/2609.32534)
 </div>
 
 
