@@ -38,32 +38,6 @@ I am seeking PhD opportunities in 27 fall/winter and internship during 26 winter
 
 <br>
 
-# Research Experience
-
-<ul>
-
-
-  <li>
-    <span style="display:inline-block; width:150px;"><em>2025.03 - Present</em></span>
-    <strong>WEI Lab, Max Planck Institute for Intelligence Systems & ELLIS Tuebingen</strong>.
-    Advisor: Dr. Shiwei Liu<br>
-    <span style="display:inline-block; width:150px;"></span>
-    <strong>Master's Intern</strong>: pre-training & model architectures, model compression, inference optimization
-  </li>
-
-  
-  <li>
-    <span style="display:inline-block; width:150px;"><em>2022.02 - 2024.06</em></span>
-    <strong>COIN Lab, Southeast University</strong>.
-    Advisor: Prof. Dr. Guilin Qi<br>
-    <span style="display:inline-block; width:150px;"></span>
-    <strong>Undergraduate Student</strong>: neuro-symbolic knowledge representation and reasoning
-  </li>
-</ul>
-
-<br>
-
-
 
 
 # Recent Publications
