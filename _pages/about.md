@@ -19,7 +19,7 @@ Hi, I'm Keyu, a master student in Machine Learning at [University of Tuebingen](
 
 I am passionate about the empirical wonders from <font color='FireBrick'><strong>how machines learn</strong></font> -- on what data, at what scale, stepping by what rule, and how early choices set the ceiling on foundamental capabilities like generalization and lifelong learning. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding their data, architectures and optimisation, and their effect on <font color='FireBrick'><strong>training dynamics</strong></font>.
 
-I am seeking PhD opportunities in 27 fall/winter and internship during 26 winter/27 spring.  Here are my [Research-CV](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/keyu_research_cv_sep.pdf) and [Research-Slides](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/keyu_research_slides_open_sep.pdf) (last updated on 30. Aug).  Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
+I am seeking PhD opportunities in 27 fall/winter and internship during 26 winter/27 spring.  Here are my [Research-CV](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/keyu_research_cv_sep.pdf) (last updated on 30. Aug).  Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
 <br>
 
@@ -33,7 +33,7 @@ I am seeking PhD opportunities in 27 fall/winter and internship during 26 winter
 <br>
 
 # Working Experience
-- *2025.12 - Present*, Research Assistant, **Max Planck Institute for Intelligent Systems**, Tuebingen, Germany
+- *2025.12 - 2027.01*, Research Assistant, **Max Planck Institute for Intelligent Systems**, Tuebingen, Germany
 - *2023.07 - 2024.06*, Intern, **BSH -- Bosch-Siemens Home Appliance Group**, Nanjing, China
 
 <br>
@@ -80,6 +80,14 @@ Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_w
 
 
 #### I. Learning: Training Dynamics, Data, and Optimization
+
+<div class='paper-box-text' markdown="1">
+<font color='FireBrick'> DepthBench: Measuring How Residual Connections Enable More Computational Depth </font>
+**Keyu Wang**\*, Yangyi Huang\*, Jiale Kang, David González-Martínez, Weiyang Liu and Shiwei Liu \\
+**arXiv 2026** [[PDF]](https://arxiv.org/abs/2609.32534)
+</div>
+
+
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
 Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
