@@ -40,7 +40,7 @@ I am seeking PhD opportunities in 27 fall/winter and internship during 26 winter
 
 
 
-# Recent Publications
+# Selected Publications
 Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (\* Equal contribution)
 
 
