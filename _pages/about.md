@@ -19,7 +19,7 @@ Hi, I'm Keyu, a master student in Machine Learning at [University of Tuebingen](
 
 I am passionate about the empirical wonders from <font color='FireBrick'><strong>how machines learn</strong></font> -- on what data, at what scale, stepping by what rule, and how early choices set the ceiling on foundamental capabilities like generalization and lifelong learning. I am particularly interested in <font color='FireBrick'><strong>the science of scaling, alignment and evolving</strong></font>. My current research centers on <font color='FireBrick'><strong>scalable and efficient foundation models</strong></font>, with a focus on understanding their data, architectures and optimisation, and their effect on <font color='FireBrick'><strong>training dynamics</strong></font>.
 
-I am seeking PhD opportunities in 27 fall/winter and internship during 26 winter/27 spring.  Here are my [Research-CV](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/keyu_research_cv_oct.pdf) (last updated on 5. Oct).  Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
+I am seeking PhD opportunities in 27 fall/winter and internship during 26 winter/27 spring.  Here are my [Research-CV](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/keyu_research_cv_oct.pdf) and [Resume](https://raw.githubusercontent.com/keyu-wang-2002/keyu-wang-2002.github.io/master/docs/keyu_resume_oct.pdf) (last updated on 5. Oct).  Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
 <br>
 
