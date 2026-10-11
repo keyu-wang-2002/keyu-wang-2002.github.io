@@ -71,6 +71,13 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 
 <br>
 
+
+# Resources
+- [[ScalingDepth]](https://keyu-wang-2002.github.io/ScalingDepth/). Discover, compare, and contribute to cutting-edge residual connections designed for large-scale deep learning and effective depth scaling.
+
+
+<br>
+
 # Academic Services
 - **Conference Reviewer**: COLM 2026, CPAL 2026
 - **Workshop Reviewer**: On-device Intelligence @ NeurIPS 2026
