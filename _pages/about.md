@@ -73,7 +73,7 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 
 
 # Resources
-- [[ScalingDepth]](https://keyu-wang-2002.github.io/ScalingDepth/). Discover, compare, and contribute to cutting-edge residual connections designed for large-scale deep learning and effective depth scaling.
+- [ScalingDepth](https://keyu-wang-2002.github.io/ScalingDepth/). Discover, compare, and contribute to cutting-edge residual designs for large-scale training and effective depth scaling.
 
 
 <br>
