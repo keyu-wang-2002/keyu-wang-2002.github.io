@@ -33,7 +33,7 @@ I am seeking PhD opportunities in 27 fall/winter and internship during 26 winter
 <br>
 
 # Working Experience
-- *2025.12 - 2027.01*, Research Assistant, **Max Planck Institute for Intelligent Systems** & **ELLIS Institute Tuebingen**, Tuebingen, Germany
+- *2025.12 - 2027.01*, Research Assistant, **Max Planck Institute for Intelligent Systems**, Tuebingen, Germany
 - *2023.07 - 2024.06*, Intern, **BSH Group China**, Nanjing, China
 
 <br>
