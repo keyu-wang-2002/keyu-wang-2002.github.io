@@ -78,7 +78,7 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 <br>
 
 # Academic Services
-- **Conference Reviewer**: COLM 2026, CPAL 2026
+- **Conference Reviewer**: COLM 2026, CPAL 2026-27
 - **Workshop Reviewer**: On-device Intelligence @ NeurIPS 2026
 
 <br>
