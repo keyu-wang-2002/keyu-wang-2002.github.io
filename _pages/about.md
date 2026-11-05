@@ -19,8 +19,8 @@ Hi, I'm Keyu, a M.Sc. student in Machine Learning at [University of Tuebingen]([
 
 I am passionate about the empirical wonders from <font color='FireBrick'><strong>how machines learn</strong></font>. My current research interests center on <font color='FireBrick'><strong>scalable and efficient machine learning</strong></font>, with a focus on:
 1. Scalable Architectures and Optimization Algorithms
-2. Efficient AI Systems and Infrastructure
-3. Adaptive and Data-Centric Learning
+2. Adaptive and Data-Centric Learning
+3. Efficient AI Systems and Infrastructure
 
 Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
