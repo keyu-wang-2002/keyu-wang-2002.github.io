@@ -15,7 +15,7 @@ redirect_from:
 
 # Biography
 
-Hi, I'm Keyu, a master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I am a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), advised by  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io), and also have the privilege of working with  [Dr. Weiyang Liu](https://wyliu.com) and [Dr. Jonas Geiping](https://jonasgeiping.github.io/). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN), and had a wonderful time at [SEU-131AIClub](https://github.com/131AIClub), contributing to its founding and flourishing.
+Hi, I'm Keyu, a master student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I am a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), advised by  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN).
 
 I am passionate about the empirical wonders from <font color='FireBrick'><strong>how machines learn</strong></font> -- on what data, at what scale, stepping by what rule, and how early choices set the ceiling on foundamental capabilities like generalization and lifelong learning. I am particularly interested in <font color='FireBrick'><strong>the empirical science and systems of scaling, alignment and evolving</strong></font>. My current research centers on scalable and efficient foundation models, with a focus on understanding their architectures, data, and optimisation.
 
@@ -78,8 +78,8 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 <br>
 
 # Academic Services
-- **Conference Reviewer**: COLM 26, CPAL 26-27
-- **Workshop Reviewer**: On-device Intelligence @ NeurIPS 26
+- **Conference Reviewer**: COLM '26, CPAL '26-27
+- **Workshop Reviewer**: On-device Intelligence @ NeurIPS '26
 
 <br>
 
