@@ -18,9 +18,9 @@ redirect_from:
 Hi, I'm Keyu, a M.Sc. student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I am a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), advised by  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN).
 
 I am passionate about the empirical wonders from <font color='FireBrick'><strong>how machines learn</strong></font>. My current research interests center on <font color='FireBrick'><strong>scalable and efficient machine learning</strong></font>, with a focus on:
-(i) scalable architectures and optimization algorithms
-(ii) efficient AI systems and infrastructure
-(iii) adaptive and data-efficient learning
+1. Scalable Architectures and Optimization Algorithms
+2. Efficient AI Systems and Infrastructure
+3. Adaptive and Data-Centric Learning
 
 Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
@@ -46,7 +46,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (\* Equal contribution)
 
 
-#### I. Learning: Training Dynamics, Data, and Optimization
+#### I. Training Dynamics, Data, and Optimization
 
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> DepthBench: Measuring How Residual Connections Enable More Computational Depth </font>
@@ -64,7 +64,7 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 
 <div style="margin-top: 30px;"></div> 
 
-#### II. Inference:  Efficiency and Reasoning Reliability
+#### II. AI Efficiency
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs </font>
 **Keyu Wang**\*, Tian Lyu\*, Guinan Su,  Lu Yin, Marco Canini, Jonas Geiping, Shiwei Liu \\
