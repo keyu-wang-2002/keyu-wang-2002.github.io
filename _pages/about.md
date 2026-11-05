@@ -46,7 +46,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (\* Equal contribution)
 
 
-#### I. Training Dynamics, Data, and Optimization
+#### I. Architectures, Data, Optimization and Training Dynamics
 
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> DepthBench: Measuring How Residual Connections Enable More Computational Depth </font>
