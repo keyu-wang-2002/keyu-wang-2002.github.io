@@ -35,7 +35,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 
 <br>
 
-# Working Experience
+# Experience
 - *2025.12 - 2027.01*, Research Assistant, **Max Planck Institute for Intelligent Systems**, Tuebingen, Germany
 
 <br>
