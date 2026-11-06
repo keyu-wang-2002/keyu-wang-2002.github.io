@@ -17,7 +17,7 @@ redirect_from:
 
 Hi, I'm Keyu, a M.Sc. student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I am a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), advised by  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN).
 
-I am passionate about the empirical wonders from <font color='FireBrick'><strong>how machines learn</strong></font>. My current research interests center on <font color='FireBrick'><strong>scalable and efficient machine learning</strong></font>, with a focus on:
+I am passionate about the empirical wonders from <font color='FireBrick'><strong>how machines learn</strong></font>. My current research interests center on <font color='FireBrick'><strong>scalable machine learning</strong></font> and <font color='FireBrick'><strong>training dynamics</strong></font>, with a focus on:
 1. Scalable Architectures and Optimization Algorithms
 2. Adaptive and Data-Centric Learning
 3. Efficient AI Systems and Infrastructure
