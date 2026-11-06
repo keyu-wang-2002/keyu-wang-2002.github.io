@@ -46,7 +46,7 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (\* Equal contribution)
 
 
-#### I. Architectures, Data, Optimization and Training Dynamics
+#### I. Learning & Training Dynamics: Architectures, Data, and Optimization
 
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> DepthBench: Measuring How Residual Connections Enable More Computational Depth </font>
@@ -64,7 +64,7 @@ Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
 
 <div style="margin-top: 30px;"></div> 
 
-#### II. ML Systems and Efficiency
+#### II. Efficient AI Systems and Infrastructure
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs </font>
 **Keyu Wang**\*, Tian Lyu\*, Guinan Su,  Lu Yin, Marco Canini, Jonas Geiping, Shiwei Liu \\
