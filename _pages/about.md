@@ -17,10 +17,7 @@ redirect_from:
 
 Hi, I'm Keyu, a M.Sc. student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I am a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), advised by  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN).
 
-I am passionate about the empirical wonders from <font color='FireBrick'><strong>how machines learn</strong></font>. My current research interests center on <font color='FireBrick'><strong>scalable machine learning</strong></font> and <font color='FireBrick'><strong>training dynamics</strong></font>, with a focus on:
-1. Scalable Architectures and Optimization Algorithms
-2. Adaptive and Data-Centric Learning
-3. Efficient AI Systems and Infrastructure
+I am passionate about the empirical wonders from <font color='FireBrick'><strong>how machines learn</strong></font>. Currently I study architectures, data and optimization for foundation models.
 
 Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
@@ -46,30 +43,12 @@ Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-t
 Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=IvXDjWUAAAAJ) for a complete list.  (\* Equal contribution)
 
 
-#### I. Learning & Training Dynamics: Architectures, Data, and Optimization
-
 <div class='paper-box-text' markdown="1">
 <font color='FireBrick'> DepthBench: Measuring How Residual Connections Enable More Computational Depth </font>
 **Keyu Wang**\*, Yangyi Huang\*, Jiale Kang, David González-Martínez, Weiyang Liu and Shiwei Liu \\
 **arXiv 2026** [[PDF]](https://arxiv.org/pdf/2609.32534)
 </div>
 
-
-<div class='paper-box-text' markdown="1">
-<font color='FireBrick'> One LR Doesn’t Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs </font>
-Di He, Songjun Tu, **Keyu Wang**, Lu Yin and Shiwei Liu \\
-**ICML 2026** [[PDF]](https://arxiv.org/pdf/2605.22297)
-</div>
-
-
-<div style="margin-top: 30px;"></div> 
-
-#### II. Efficient AI Systems and Infrastructure
-<div class='paper-box-text' markdown="1">
-<font color='FireBrick'> When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs </font>
-**Keyu Wang**\*, Tian Lyu\*, Guinan Su,  Lu Yin, Marco Canini, Jonas Geiping, Shiwei Liu \\
-**COLM 2026**  [[PDF]](https://arxiv.org/pdf/2510.22228v2)
-</div>
 
 <br>
 
