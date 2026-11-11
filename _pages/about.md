@@ -67,6 +67,5 @@ Refer to my [Google Scholar](https://scholar.google.com/citations?view_op=list_w
 
 # Misc
 - My Chinese name is 汪可予. I come from Tongling, Anhui — a small city by the Yangtze River.
-- I like all kinds of sports, such as table tennis, basketball, football, badminton, marathons, jogging, hiking and climbing.  
-- I a big fan of animations. I enjoy various chess, board and card games. 
+- I a big fan of animations, sports, chess, board and card games. 
 <div style="height: 75px;"></div>
