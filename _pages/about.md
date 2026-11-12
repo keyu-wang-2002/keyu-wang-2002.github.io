@@ -17,7 +17,7 @@ redirect_from:
 
 Hi, I'm Keyu, a M.Sc. student in Machine Learning at [University of Tuebingen]([[https://uni-tuebingen.de/en/]]). Currently, I am a research assistant in [Max Planck Institute for Intelligent Systems](https://is.mpg.de/), advised by  [Dr. Shiwei Liu](https://shiweiliuiiiiiii.github.io). I earned my B.Eng. in Artificial Intelligence from [Southeast University](https://www.seu.edu.cn/) where I was advised by [Prof. Guilin Qi](https://scholar.google.com/citations?user=1gw3LJQAAAAJ&hl=zh-CN).
 
-Currently I study architectures, data and optimization for foundation models.
+My current research interests center on architectures, data and optimization for foundation models, and how they shape training dynamics and scaling behaviours.
 
 Please feel free to reach out to me via email at​ ​**keyu.wang@student.uni-tuebingen.de**.
 
