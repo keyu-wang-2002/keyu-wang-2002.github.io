@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name: "Keyu Wang"
-  avatar: "images/Keyu.jpeg"
+  avatar: "images/avatar.jpg"
   location: "Tuebingen, Germany"
   email: "keyu.wang@student.uni-tuebingen.de"
   googlescholar: "https://scholar.google.com/citations?user=IvXDjWUAAAAJ&hl=zh-CN"

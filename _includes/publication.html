@@ -1,0 +1,8 @@
+<article class="publication">
+  <h3><a href="{{ include.pub.href }}">{{ include.pub.title }}</a></h3>
+  <p class="authors">{{ include.pub.authors | replace: "*", '<span title="Equal contribution">*</span>' }}</p>
+  <p class="venue">{{ include.pub.venue }}</p>
+  {% if include.pub.links %}
+  <p class="paper-links">{% for l in include.pub.links %}<a href="{{ l.href }}">{{ l.label }}</a>{% unless forloop.last %} <span class="sep">&middot;</span> {% endunless %}{% endfor %}</p>
+  {% endif %}
+</article>

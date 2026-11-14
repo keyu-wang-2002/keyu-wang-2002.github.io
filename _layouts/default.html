@@ -1,16 +1,17 @@
----
-layout: compress
----
-
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="en">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-    <title>{{ page.title }}</title>
-      <!-- 其他的head代码 -->
-    
-    <link rel="icon" href="https://raw.githubusercontent.com/Fuyao233/yinghaocai/master/assets/pkq.png" type="image/png">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="{{ site.author.name }}">
+    {% include seo.html %}
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="icon" href="{{ '/assets/pkq.png' | relative_url }}" type="image/png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;650;700&display=swap">
+    <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-2NXEB1M23B"></script>
@@ -18,31 +19,27 @@ layout: compress
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-2NXEB1M23B');
-      
     </script>
   </head>
 
   <body>
+    <main class="page-shell">
+      {{ content }}
+    </main>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
-      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
-      </article>
-    </div>
-
-    {% include scripts.html %}
-
+    <script>
+      // Publications: "Selected" / "All by date" switch.
+      var pubButtons = document.querySelectorAll('.publication-switch button');
+      pubButtons.forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          pubButtons.forEach(function (b) {
+            var on = b === btn;
+            b.setAttribute('aria-pressed', String(on));
+            document.getElementById('pubs-' + b.getAttribute('data-pubs')).classList.toggle('is-hidden', !on);
+          });
+        });
+      });
+    </script>
   </body>
 </html>

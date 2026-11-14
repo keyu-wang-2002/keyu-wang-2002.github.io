@@ -1,0 +1,71 @@
+# One entry per paper; "All by date" sorts by `date` (YYYY-MM-DD, first arXiv version), newest first.
+# selected: true  -> also shown under "Selected".
+# `authors` and `venue` may contain inline HTML. Wrap your own name in <strong>...</strong>;
+# put * after a name for equal contribution.
+
+- title: "DepthBench: Measuring How Residual Connections Enable More Computational Depth"
+  href: "https://arxiv.org/pdf/2609.32534"
+  date: "2026-09-26"
+  selected: true
+  authors: '<strong>Keyu Wang</strong>*, Yangyi Huang*, Jiale Kang, David González-Martínez, Weiyang Liu, <a href="https://shiweiliuiiiiiii.github.io">Shiwei Liu</a>'
+  venue: "<em>Preprint, 2026</em>"
+  links:
+    - label: "arXiv"
+      href: "https://arxiv.org/abs/2609.32534"
+    - label: "code"
+      href: "https://github.com/keyu-wang-2002/DepthBench/tree/main"
+    - label: "project"
+      href: "https://keyu-wang-2002.github.io/DepthBench-Website/"
+
+- title: "One LR Doesn't Fit All: Heavy-Tail Guided Layerwise Learning Rates for LLMs"
+  href: "https://arxiv.org/pdf/2605.22297"
+  date: "2026-05-21"
+  authors: 'Di He, Songjun Tu, <strong>Keyu Wang</strong>, Lu Yin, <a href="https://shiweiliuiiiiiii.github.io">Shiwei Liu</a>'
+  venue: "<em>ICML 2026</em>"
+  links:
+    - label: "arXiv"
+      href: "https://arxiv.org/abs/2605.22297"
+    - label: "code"
+      href: "https://github.com/hed-ucas/Layer-wise-Learning-Rate"
+
+- title: "When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs"
+  href: "https://arxiv.org/pdf/2510.22228"
+  date: "2025-10-25"
+  authors: '<strong>Keyu Wang</strong>*, Tian Lyu*, Guinan Su, Lu Yin, Marco Canini, Jonas Geiping, <a href="https://shiweiliuiiiiiii.github.io">Shiwei Liu</a>'
+  venue: "<em>COLM 2026</em>"
+  links:
+    - label: "arXiv"
+      href: "https://arxiv.org/abs/2510.22228"
+    - label: "code"
+      href: "https://github.com/keyu-wang-2002/Layer-Pruning-Harms-Inference-Scaling"
+
+- title: "Demystifying the Roles of LLM Layers in Retrieval, Knowledge, and Reasoning"
+  href: "https://arxiv.org/pdf/2510.02091"
+  date: "2025-10-02"
+  authors: 'Xinyuan Song, <strong>Keyu Wang</strong>, PengXiang Li, Lu Yin, <a href="https://shiweiliuiiiiiii.github.io">Shiwei Liu</a>'
+  venue: "<em>ICASSP 2026</em>"
+  links:
+    - label: "arXiv"
+      href: "https://arxiv.org/abs/2510.02091"
+    - label: "code"
+      href: "https://github.com/Hik289/llm-layer-importance"
+
+- title: "Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study"
+  href: "https://arxiv.org/pdf/2406.17532"
+  date: "2024-06-25"
+  authors: '<strong>Keyu Wang</strong>, <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ">Guilin Qi</a>, Jiaqi Li, Songlin Zhai'
+  venue: "<em>Findings of EMNLP 2024</em>"
+  links:
+    - label: "arXiv"
+      href: "https://arxiv.org/abs/2406.17532"
+
+- title: "An Embedding-based Approach to Inconsistency-tolerant Reasoning with Inconsistent Ontologies"
+  href: "https://arxiv.org/pdf/2304.01664"
+  date: "2023-04-04"
+  authors: '<strong>Keyu Wang</strong>, Site Li, Jiaye Li, <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ">Guilin Qi</a>, Qiu Ji'
+  venue: "<em>IJCKG 2023</em>"
+  links:
+    - label: "arXiv"
+      href: "https://arxiv.org/abs/2304.01664"
+    - label: "code"
+      href: "https://github.com/keyu-wang-2002/inconsistent-ontology-reasoning"

@@ -1,0 +1,94 @@
+---
+permalink: /
+title: "Keyu Wang"
+layout: default
+redirect_from:
+  - /about/
+  - /about.html
+---
+<header class="hero">
+  <div class="hero-copy">
+    <h1>Keyu Wang</h1>
+    <p>
+      I'm an M.Sc. student in Machine Learning at the <a href="https://uni-tuebingen.de/en/">University of Tübingen</a>
+      and a research assistant at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a>,
+      advised by <a href="https://shiweiliuiiiiiii.github.io">Dr. Shiwei Liu</a>.
+      Before that, I obtained my B.Eng. in Artificial Intelligence from <a href="https://www.seu.edu.cn/">Southeast University</a>,
+      where I was advised by <a href="https://scholar.google.com/citations?user=1gw3LJQAAAAJ">Prof. Guilin Qi</a>.
+    </p>
+    <nav class="profile-links" aria-label="Profile links">
+      <a href="mailto:{{ site.author.email }}">Email</a> <span class="sep">&middot;</span>
+      <a href="{{ site.author.googlescholar }}">Google Scholar</a> <span class="sep">&middot;</span>
+      <a href="https://github.com/{{ site.author.github }}">GitHub</a> <span class="sep">&middot;</span>
+      <a href="https://x.com/{{ site.author.twitter }}">Twitter</a> <span class="sep">&middot;</span>
+      <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>
+    </nav>
+  </div>
+  <figure class="profile-figure">
+    <div class="image-wrapper">
+      <img alt="Keyu Wang" src="{{ site.author.avatar | relative_url }}" class="profile-image">
+    </div>
+  </figure>
+</header>
+
+<section class="section">
+  <h2>Research</h2>
+  <p>
+    My research interests center on the architectures, data and optimization of foundation models,
+    and how they shape training dynamics, generalization, and scaling behaviours.
+  </p>
+</section>
+
+<section class="section">
+  <h2>Experience</h2>
+  <div class="exp">
+    <div class="exp-head">
+      <h3><a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a></h3>
+      <span class="exp-date">2025.12 – 2027.01</span>
+    </div>
+    <div class="exp-row">
+      <p class="exp-meta">Research Assistant <span class="sep">&middot;</span> Advisor: <a href="https://shiweiliuiiiiiii.github.io">Dr. Shiwei Liu</a></p>
+      <span class="exp-place">Tübingen, Germany</span>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <h2>Publications</h2>
+  <div class="publication-switch" role="group" aria-label="Publication list">
+    <button type="button" data-pubs="selected" aria-pressed="true">Selected</button>
+    <span class="sep">&middot;</span>
+    <button type="button" data-pubs="all" aria-pressed="false">All by date</button>
+  </div>
+  <div class="publications" id="pubs-selected">
+    {% for pub in site.data.publications %}{% if pub.selected %}
+    {% include publication.html pub=pub %}
+    {% endif %}{% endfor %}
+  </div>
+  <div class="publications is-hidden" id="pubs-all">
+    {% assign pubs_by_date = site.data.publications | sort: "date" | reverse %}
+    {% for pub in pubs_by_date %}
+    {% include publication.html pub=pub %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section">
+  <h2>Resources</h2>
+  <p>
+    <a href="https://keyu-wang-2002.github.io/ScalingDepth/"><strong>ScalingDepth</strong></a>: A collection of residual connection designs.
+  </p>
+</section>
+
+<section class="section">
+  <h2>Service</h2>
+  <p>Conference Reviewer: COLM 2026, CPAL 2026/2027</p>
+  <p>Workshop Reviewer: On-device Intelligence @ NeurIPS 2026</p>
+  <p>Co-organizing: <a href="https://github.com/131AIClub">SEU-131AIClub</a></p>
+</section>
+
+<section class="section">
+  <h2>Misc.</h2>
+  <p>My Chinese name is 汪可予. I come from Tongling, China, a small city by the Yangtze River.</p>
+  <p>I'm a big fan of animation, sports, chess, and board and card games.</p>
+</section>
